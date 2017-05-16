@@ -140,8 +140,8 @@
 
 %% INDEX
 %   Uncomment the following two lines to create an index: 
-% \usepackage{makeidx}
-% \makeindex
+\usepackage{makeidx}
+\makeindex
 %   You will need to uncomment the \printindex line near the
 %   bibliography to display the index.  Use the command
 % \index{keyword} 
@@ -212,7 +212,7 @@
 %   chapter1.tex, chapter2.tex
 % Then use the commands:
 %   \include{chapter1}
-%   \include{chapter2}
+   \include{chapter2}
 %
 % Of course, if you prefer, you can just start with
 %   \chapter{My First Chapter Name}
@@ -234,17 +234,17 @@ nulla.
 
 This subsection shows a sample figure.
 
-\begin{figure}[h] 
+\begin{figure}[ht] 
   \centering
   \includegraphics[width=0.5\textwidth]{sandiego}
   \caption[Short figure caption (must be \protect{$< 4$} lines in the list of figures)]{A picture of San Diego.  Note that figures must be on their own line (no neighboring text) and captions must be single-spaced and appear \protect\textit{below} the figure.  Captions can be as long as you want, but if they are longer than 4 lines in the list of figures, you must provide a short figure caption.\index{SanDiego}} 
   \label{fig:sandiego}
 \end{figure}
 
+
 \subsection{A Table Example}
 
 While in Section \ref{ssec:figure_example} Figure \ref{fig:sandiego} we had a majestic figure, here we provide a crazy table example.
-
 
 %%%% TABLE 1 %%%%
 \vspace{0.25in}
@@ -283,7 +283,7 @@ noon & medium & Croutons (Tomato Basil Soup \& Granny Smith Chicken Salad) \\
 \chapter{Final notes}
 What to do about things \cite{Martin_1983}.  What did he say \cite{Rilling_Insel_1999}.
   Remove me in case of abdominal pain.
-
+  \cite{Arai2006}
 
 
 %% END MATTER
@@ -296,7 +296,7 @@ What to do about things \cite{Martin_1983}.  What did he say \cite{Rilling_Insel
 %\setlength{\bibindent}{-\bibleftmargin}  % unindent the first line
 %\def\baselinestretch{1.0}  % force single spacing
 %\setlength{\bibitemsep}{0.16in}  % add extra space between items
-\bibliography{template}  %% This looks for the bibliography in template.bib 
+\bibliography{library}  %% This looks for the bibliography in template.bib 
 %                          which should be formatted as a bibtex file.
 %                          and needs to be separately compiled into a bbl file.
 \end{document}

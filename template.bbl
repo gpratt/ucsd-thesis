@@ -1,14 +1,503 @@
-\begin{thebibliography}{Mar83}
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{MHDN{\etalchar{+}}00}
 
-\bibitem[Mar83]{Martin_1983}
-Robert~D. Martin.
-\newblock {\em Human Brain Evolution in an Ecological Context}.
-\newblock American Museum of Natural History, 1983.
+\bibitem[AHA{\etalchar{+}}06]{Arai2006}
+Tetsuaki Arai, Masato Hasegawa, Haruhiko Akiyama, Kenji Ikeda, Takashi Nonaka,
+  Hiroshi Mori, David Mann, Kuniaki Tsuchiya, Mari Yoshida, Yoshio Hashizume,
+  and Tatsuro Oda.
+\newblock {TDP-43 is a component of ubiquitin-positive tau-negative inclusions
+  in frontotemporal lobar degeneration and amyotrophic lateral sclerosis.}
+\newblock {\em Biochemical and biophysical research communications},
+  351(3):602--11, dec 2006.
 
-\bibitem[RI99]{Rilling_Insel_1999}
-James~K. Rilling and Thomas~R. Insel.
-\newblock The primate neocortex in comparative perspective using magnetic
-  resonance imaging.
-\newblock {\em Journal of Human Evolution}, 37(2):191--223, 1999.
+\bibitem[AZH{\etalchar{+}}11]{Ameur2011}
+Adam Ameur, Ammar Zaghlool, Jonatan Halvardson, Anna Wetterbom, Ulf Gyllensten,
+  Lucia Cavelier, and Lars Feuk.
+\newblock {Total RNA sequencing reveals nascent transcription and widespread
+  co-transcriptional splicing in the human brain.}
+\newblock {\em Nature structural {\&} molecular biology}, 18(12):1435--40, dec
+  2011.
+
+\bibitem[BB11]{Budini2011}
+Mauricio Budini and Emanuele Buratti.
+\newblock {TDP-43 autoregulation: implications for disease.}
+\newblock {\em Journal of molecular neuroscience : MN}, 45(3):473--9, dec 2011.
+
+\bibitem[BHV{\etalchar{+}}16]{Batra2016}
+Ranjan Batra, Kasey Hutt, Anthony Vu, Stuart~J Rabin, Michael~W Baughn, Ryan~T
+  Libby, Shawn Hoon, John Ravits, and Gene~W Yeo.
+\newblock {Gene Expression Signatures of Sporadic ALS Motor Neuron
+  Populations}.
+\newblock Technical report, feb 2016.
+
+\bibitem[BLH{\etalchar{+}}96]{Bertolotti1996}
+a~Bertolotti, Y~Lutz, D~J Heard, P~Chambon, and L~Tora.
+\newblock {hTAF(II)68, a novel RNA/ssDNA-binding protein with homology to the
+  pro-oncoproteins TLS/FUS and EWS is associated with both TFIID and RNA
+  polymerase II.}
+\newblock {\em The EMBO journal}, 15(18):5022--5031, 1996.
+
+\bibitem[CFP{\etalchar{+}}09]{Chambers2009}
+Stuart~M Chambers, Christopher~A Fasano, Eirini~P Papapetrou, Mark Tomishima,
+  Michel Sadelain, and Lorenz Studer.
+\newblock {Highly efficient neural conversion of human ES and iPS cells by dual
+  inhibition of SMAD signaling.}
+\newblock {\em Nature biotechnology}, 27(3):275--80, mar 2009.
+
+\bibitem[CHS{\etalchar{+}}11]{Couthouis2011}
+Julien Couthouis, Michael~P Hart, James Shorter, Mariely DeJesus-Hernandez,
+  Renske Erion, Rachel Oristano, Annie~X Liu, Daniel Ramos, Niti Jethava, Divya
+  Hosangadi, James Epstein, Ashley Chiang, Zamia Diaz, Tadashi Nakaya, Fadia
+  Ibrahim, Hyung-Jun Kim, Jennifer~A Solski, Kelly~L Williams, Jelena
+  Mojsilovic-Petrovic, Caroline Ingre, Kevin Boylan, Neill~R Graff-Radford,
+  Dennis~W Dickson, Dana Clay-Falcone, Lauren Elman, Leo McCluskey, Robert
+  Greene, Robert~G Kalb, Virginia M-Y Lee, John~Q Trojanowski, Albert Ludolph,
+  Wim Robberecht, Peter~M Andersen, Garth~A Nicholson, Ian~P Blair, Oliver~D
+  King, Nancy~M Bonini, Vivianna {Van Deerlin}, Rosa Rademakers, Zissimos
+  Mourelatos, and Aaron~D Gitler.
+\newblock {A yeast functional screen predicts new candidate ALS disease genes.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(52):20881--90, dec 2011.
+
+\bibitem[CRG{\etalchar{+}}09]{Corrado2009}
+Lucia Corrado, A~Ratti, C~Gellera, E~Buratti, B~Castellotti, Y~Carlomagno,
+  N~Ticozzi, L~Mazzini, L~Testa, F~Taroni, F~E Baralle, V~Silani, and
+  S~D'Alfonso.
+\newblock {High frequency of TARDBP gene mutations in Italian patients with
+  amyotrophic lateral sclerosis.}
+\newblock {\em Human mutation}, 30(4):688--94, apr 2009.
+
+\bibitem[CVP{\etalchar{+}}16]{Conway2016}
+Anne E.~E Conway, Eric~L. {Van Nostrand}, Gabriel A.~A Pratt, Stefan Aigner,
+  Melissa L.~L Wilbert, Balaji Sundararaman, Peter Freese, Nicole J.~J Lambert,
+  Shashank Sathe, Tiffany Y.~Y Liang, Anthony Essex, Severine Landais,
+  Christopher B.~B Burge, D.~Leanne~Leanne Jones, Gene W.~W Yeo, Eric~L {Van
+  Nostrand}, Gabriel A.~A Pratt, Stefan Aigner, Melissa L.~L Wilbert, Balaji
+  Sundararaman, Peter Freese, Nicole J.~J Lambert, Shashank Sathe, Tiffany Y.~Y
+  Liang, Anthony Essex, Severine Landais, Christopher B.~B Burge,
+  D.~Leanne~Leanne Jones, and Gene W.~W Yeo.
+\newblock {Enhanced CLIP Uncovers IMP Protein-RNA Targets in Human Pluripotent
+  Stem Cells Important for Cell Adhesion and Survival.}
+\newblock {\em Cell reports}, 15(3):666--679, apr 2016.
+
+\bibitem[DDS{\etalchar{+}}13]{Dobin2013a}
+Alexander Dobin, Carrie~A Davis, Felix Schlesinger, Jorg Drenkow, Chris
+  Zaleski, Sonali Jha, Philippe Batut, Mark Chaisson, and Thomas~R Gingeras.
+\newblock {STAR: ultrafast universal RNA-seq aligner.}
+\newblock {\em Bioinformatics (Oxford, England)}, 29(1):15--21, jan 2013.
+
+\bibitem[DGC{\etalchar{+}}09]{DelBo2009}
+R~{Del Bo}, S~Ghezzi, S~Corti, M~Pandolfo, M~Ranieri, D~Santoro, I~Ghione,
+  A~Prelle, V~Orsetti, M~Mancuso, G~Sorar{\`{u}}, C~Briani, C~Angelini,
+  G~Siciliano, N~Bresolin, and G~P Comi.
+\newblock {TARDBP (TDP-43) sequence analysis in patients with familial and
+  sporadic ALS: identification of two novel mutations.}
+\newblock {\em European journal of neurology : the official journal of the
+  European Federation of Neurological Societies}, 16(6):727--32, jun 2009.
+
+\bibitem[DPQ11]{Dale2011a}
+Ryan~K Dale, Brent~S Pedersen, and Aaron~R Quinlan.
+\newblock {Pybedtools: a flexible Python library for manipulating genomic
+  datasets and annotations.}
+\newblock {\em Bioinformatics (Oxford, England)}, 27(24):3423--4, dec 2011.
+
+\bibitem[DVK{\etalchar{+}}09]{Daoud2009}
+H~Daoud, P~N Valdmanis, E~Kabashi, P~Dion, N~Dupr{\'{e}}, W~Camu, V~Meininger,
+  and G~A Rouleau.
+\newblock {Contribution of TARDBP mutations to sporadic amyotrophic lateral
+  sclerosis.}
+\newblock {\em Journal of medical genetics}, 46(2):112--4, mar 2009.
+
+\bibitem[GCZ{\etalchar{+}}11]{Guo2011}
+Weirui Guo, Yanbo Chen, Xiaohong Zhou, Amar Kar, Payal Ray, Xiaoping Chen,
+  Elizabeth~J Rao, Mengxue Yang, Haihong Ye, Li~Zhu, Jianghong Liu, Meng Xu,
+  Yanlian Yang, Chen Wang, David Zhang, Eileen~H Bigio, Marsel Mesulam, Yan
+  Shen, Qi~Xu, Kazuo Fushimi, and Jane~Y Wu.
+\newblock {An ALS-associated mutation affecting TDP-43 enhances protein
+  aggregation, fibril formation and neurotoxicity.}
+\newblock {\em Nature structural {\&} molecular biology}, 18(7):822--30, jul
+  2011.
+
+\bibitem[HBS{\etalchar{+}}10]{Heinz2010}
+Sven Heinz, Christopher Benner, Nathanael Spann, Eric Bertolino, Yin~C Lin,
+  Peter Laslo, Jason~X Cheng, Cornelis Murre, Harinder Singh, and Christopher~K
+  Glass.
+\newblock {Simple combinations of lineage-determining transcription factors
+  prime cis-regulatory elements required for macrophage and B cell identities.}
+\newblock {\em Molecular cell}, 38(4):576--89, may 2010.
+
+\bibitem[HFG{\etalchar{+}}12]{Harrow2012}
+Jennifer Harrow, Adam Frankish, Jose~M Gonzalez, Electra Tapanari, Mark
+  Diekhans, Felix Kokocinski, Bronwen~L Aken, Daniel Barrell, Amonida Zadissa,
+  Stephen Searle, If~Barnes, Alexandra Bignell, Veronika Boychenko, Toby Hunt,
+  Mike Kay, Gaurab Mukherjee, Jeena Rajan, Gloria Despacio-Reyes, Gary
+  Saunders, Charles Steward, Rachel Harte, Michael Lin, C{\'{e}}dric Howald,
+  Andrea Tanzer, Thomas Derrien, Jacqueline Chrast, Nathalie Walters, Suganthi
+  Balasubramanian, Baikang Pei, Michael Tress, Jose~Manuel Rodriguez, Iakes
+  Ezkurdia, Jeltje van Baren, Michael Brent, David Haussler, Manolis Kellis,
+  Alfonso Valencia, Alexandre Reymond, Mark Gerstein, Roderic Guig{\'{o}}, and
+  Tim~J Hubbard.
+\newblock {GENCODE: the reference human genome annotation for The ENCODE
+  Project.}
+\newblock {\em Genome research}, 22(9):1760--74, sep 2012.
+
+\bibitem[HLR{\etalchar{+}}11]{Hoell2011}
+Jessica~I Hoell, Erik Larsson, Simon Runge, Jeffrey~D Nusbaum, Sujitha
+  Duggimpudi, Thalia~A Farazi, Markus Hafner, Arndt Borkhardt, Chris Sander,
+  and Thomas Tuschl.
+\newblock {RNA targets of wild-type and mutant FET family proteins}.
+\newblock {\em Nature Structural {\&} Molecular Biology}, 18(12):1428--1431,
+  nov 2011.
+
+\bibitem[HVA{\etalchar{+}}12]{Huelga2012}
+Stephanie C.~C Huelga, Anthony Q.~Q Vu, Justin D.~D Arnold, Tiffany Y.~Y Liang,
+  Patrick P.~P Liu, Bernice Y.~Y Yan, John Paul~Paul Donohue, Lily Shiue, Shawn
+  Hoon, Sydney Brenner, Manuel Ares, and Gene W.~W Yeo.
+\newblock {Integrative Genome-wide Analysis Reveals Cooperative Regulation of
+  Alternative Splicing by hnRNP Proteins}.
+\newblock {\em Cell Reports}, 1(2):167--178, feb 2012.
+
+\bibitem[IMA{\etalchar{+}}13]{Ibrahim2013}
+Fadia Ibrahim, Manolis Maragkakis, Panagiotis Alexiou, Margaret~a. Maronski,
+  Marc~a. Dichter, and Zissimos Mourelatos.
+\newblock {Identification of In Vivo, Conserved, TAF15 RNA Binding Sites
+  Reveals the Impact of TAF15 on the Neuronal Transcriptome}.
+\newblock {\em Cell Reports}, 3(2):301--308, 2013.
+
+\bibitem[JPV{\etalchar{+}}09]{Jobert2009a}
+Laure Jobert, Natalia Pinz{\'{o}}n, Elodie {Van Herreweghe}, Be{\'{a}}ta~E
+  J{\'{a}}dy, Apostolia Guialis, Tam{\'{a}}s Kiss, and L{\'{a}}szl{\'{o}} Tora.
+\newblock {Human U1 snRNA forms a new chromatin-associated snRNP with TAF15.}
+\newblock {\em EMBO reports}, 10(5):494--500, 2009.
+
+\bibitem[KBL{\etalchar{+}}09]{Kwiatkowski2009}
+Jr~Kwiatkowski, T~J, D~A Bosco, A~L Leclerc, E~Tamrazian, C~R Vanderburg,
+  C~Russ, A~Davis, J~Gilchrist, E~J Kasarskis, T~Munsat, P~Valdmanis, G~A
+  Rouleau, B~A Hosler, P~Cortelli, P~J de~Jong, Y~Yoshinaga, J~L Haines, M~A
+  Pericak-Vance, J~Yan, N~Ticozzi, T~Siddique, D~McKenna-Yasek, P~C Sapp, H~R
+  Horvitz, J~E Landers, and Jr~Brown, R~H.
+\newblock {Mutations in the FUS/TLS gene on chromosome 16 cause familial
+  amyotrophic lateral sclerosis}.
+\newblock {\em Science (New York, N.Y.)}, 323(5918):1205--1208, feb 2009.
+
+\bibitem[KKX{\etalchar{+}}13]{Kwon2013}
+Ilmin Kwon, Masato Kato, Siheng Xiang, Leeju Wu, Pano Theodoropoulos, Hamid
+  Mirzaei, Tina Han, Shanhai Xie, Jeffry~L Corden, and Steven~L McKnight.
+\newblock {Phosphorylation-regulated binding of RNA polymerase II to fibrous
+  polymers of low-complexity domains.}
+\newblock {\em Cell}, 155(5):1049--60, nov 2013.
+
+\bibitem[KSV{\etalchar{+}}08]{Kuhnlein2008}
+Peter K{\"{u}}hnlein, Anne-Dorte Sperfeld, Ben Vanmassenhove, Vivianna {Van
+  Deerlin}, Virginia M-Y Lee, John~Q Trojanowski, Hans~A Kretzschmar, Albert~C
+  Ludolph, and Manuela Neumann.
+\newblock {Two German kindreds with familial amyotrophic lateral sclerosis due
+  to TARDBP mutations.}
+\newblock {\em Archives of neurology}, 65(9):1185--9, sep 2008.
+
+\bibitem[LGM{\etalchar{+}}13]{Lovci2013}
+Michael~T Lovci, Dana Ghanem, Henry Marr, Justin Arnold, Sherry Gee, Marilyn
+  Parra, Tiffany~Y Liang, Thomas~J Stark, Lauren~T Gehman, Shawn Hoon, Katlin~B
+  Massirer, Gabriel~A Pratt, Douglas~L Black, Joe~W Gray, John~G Conboy, and
+  Gene~W Yeo.
+\newblock {Rbfox proteins regulate alternative mRNA splicing through
+  evolutionarily conserved RNA bridges.}
+\newblock {\em Nature structural {\&} molecular biology}, 20(12):1434--42, dec
+  2013.
+
+\bibitem[LHA14]{Love2014}
+M.~I. Love, W.~Huber, and S.~Anders.
+\newblock {Moderated estimation of fold change and dispersion for RNA-Seq data
+  with DESeq2}.
+\newblock {\em bioRxiv}, pages 1--21, 2014.
+
+\bibitem[LMF{\etalchar{+}}08]{Licatalosi2008}
+Donny~D Licatalosi, Aldo Mele, John~J Fak, Jernej Ule, Melis Kayikci, Sung~Wook
+  Chi, Tyson~A Clark, Anthony~C Schweitzer, John~E Blume, Xuning Wang,
+  Jennifer~C Darnell, and Robert~B Darnell.
+\newblock {HITS-CLIP yields genome-wide insights into brain alternative RNA
+  processing.}
+\newblock {\em Nature}, 456(7221):464--9, nov 2008.
+
+\bibitem[LRH{\etalchar{+}}09]{Lemmens2009}
+R~Lemmens, V~Race, N~Hersmus, G~Matthijs, L~{Van Den Bosch}, P~{Van Damme},
+  B~Dubois, S~Boonen, A~Goris, and W~Robberecht.
+\newblock {TDP-43 M311V mutation in familial amyotrophic lateral sclerosis.}
+\newblock {\em Journal of neurology, neurosurgery, and psychiatry},
+  80(3):354--5, mar 2009.
+
+\bibitem[LRJ{\etalchar{+}}14]{Lambert2014}
+Nicole Lambert, Alex Robertson, Mohini Jangi, Sean McGeary, Phillip~a. Sharp,
+  and Christopher~B. Burge.
+\newblock {RNA Bind-n-Seq: Quantitative Assessment of the Sequence and
+  Structural Binding Specificity of RNA Binding Proteins}.
+\newblock {\em Molecular Cell}, 54(5):887--900, jun 2014.
+
+\bibitem[LSS14]{Liao2014}
+Yang Liao, Gordon~K Smyth, and Wei Shi.
+\newblock {featureCounts: an efficient general purpose program for assigning
+  sequence reads to genomic features.}
+\newblock {\em Bioinformatics (Oxford, England)}, 30(7):923--30, apr 2014.
+
+\bibitem[LTPC10]{Lagier-Tourenne2010}
+Clotilde Lagier-Tourenne, Magdalini Polymenidou, and Don~W Cleveland.
+\newblock {TDP-43 and FUS/TLS: emerging roles in RNA processing and
+  neurodegeneration.}
+\newblock {\em Human molecular genetics}, 19(R1):R46--64, apr 2010.
+
+\bibitem[LTPH{\etalchar{+}}12]{Lagier-Tourenne2012}
+Clotilde Lagier-Tourenne, Magdalini Polymenidou, Kasey~R Hutt, Anthony~Q Vu,
+  Michael Baughn, Stephanie~C Huelga, Kevin~M Clutario, Shuo-Chien Ling,
+  Tiffany~Y Liang, Curt Mazur, Edward Wancewicz, Aneeza~S Kim, Andy Watt, Sue
+  Freier, Geoffrey~G Hicks, John~Paul Donohue, Lily Shiue, C~Frank Bennett,
+  John Ravits, Don~W Cleveland, and Gene~W Yeo.
+\newblock {Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect
+  in processing long pre-mRNAs}.
+\newblock {\em Nature Neuroscience}, 15(11):1488--1497, 2012.
+
+\bibitem[LTPS09]{Langmead2009}
+Ben Langmead, Cole Trapnell, Mihai Pop, and Steven~L Salzberg.
+\newblock {Ultrafast and memory-efficient alignment of short DNA sequences to
+  the human genome.}
+\newblock {\em Genome biology}, 10(3):R25, jan 2009.
+
+\bibitem[Mar11]{Martin2011}
+Marcel Martin.
+\newblock {Cutadapt removes adapter sequences from high-throughput sequencing
+  reads}, feb 2011.
+
+\bibitem[MHDN{\etalchar{+}}00]{Muller-Hartmann2000}
+H~M{\"{u}}ller-Hartmann, H~Deissler, F~Naumann, B~Schmitz, J~Schr{\"{o}}er, and
+  W~Doerfler.
+\newblock {The human 20-kDa 5'-(CGG)(n)-3'-binding protein is targeted to the
+  nucleus and affects the activity of the FMR1 promoter.}
+\newblock {\em The Journal of biological chemistry}, 275(9):6447--52, mar 2000.
+
+\bibitem[NBD{\etalchar{+}}11]{Neumann2011}
+Manuela Neumann, Eva Bentmann, Dorothee Dormann, Ali Jawaid, Mariely
+  Dejesus-Hernandez, Olaf Ansorge, Sigrun Roeber, Hans~a. Kretzschmar, David~G.
+  Munoz, Hirofumi Kusaka, Osamu Yokota, Lee~Cyn Ang, Juan Bilbao, Rosa
+  Rademakers, Christian Haass, and Ian R~a MacKenzie.
+\newblock {FET proteins TAF15 and EWS are selective markers that distinguish
+  FTLD with FUS pathology from amyotrophic lateral sclerosis with FUS
+  mutations}.
+\newblock {\em Brain}, 134(9):2595--2609, 2011.
+
+\bibitem[NSK{\etalchar{+}}06]{Neumann2006a}
+Manuela Neumann, Deepak~M. Sampathu, Linda~K. Kwong, Adam~C. Truax, Matthew~C.
+  Micsenyi, Thomas~T. Chou, Jennifer Bruce, Theresa Schuck, Murray Grossman,
+  Christopher~M. Clark, Leo~F. McCluskey, Bruce~L. Miller, Eliezer Masliah,
+  Ian~R. Mackenzie, Howard Feldman, Wolfgang Feiden, Hans~A. Kretzschmar,
+  John~Q. Trojanowski, and Virginia M-Y M.-Y. Lee.
+\newblock {Ubiquitinated TDP-43 in frontotemporal lobar degeneration and
+  amyotrophic lateral sclerosis.}
+\newblock {\em Science}, 314(5796):130--3, oct 2006.
+
+\bibitem[ORJ{\etalchar{+}}12]{Olszewski2012}
+Pawel~K Olszewski, Jan Rozman, Josefin~A Jacobsson, Birgit Rathkolb, Siv
+  Str{\"{o}}mberg, Wolfgang Hans, Anica Klockars, Johan Alsi{\"{o}}, Ulf
+  Ris{\'{e}}rus, Lore Becker, Sabine~M H{\"{o}}lter, Ralf Elvert, Nicole
+  Ehrhardt, Val{\'{e}}rie Gailus-Durner, Helmut Fuchs, Robert Fredriksson,
+  Eckhard Wolf, Thomas Klopstock, Wolfgang Wurst, Allen~S Levine, Claude
+  Marcus, Martin~Hrab{\v{e}} de~Angelis, Martin Klingenspor, Helgi~B
+  Schi{\"{o}}th, and Manfred~W Kilimann.
+\newblock {Neurobeachin, a regulator of synaptic protein targeting, is
+  associated with body fat mass and feeding behavior in mice and body-mass
+  index in humans.}
+\newblock {\em PLoS genetics}, 8(3):e1002568, jan 2012.
+
+\bibitem[PLTH{\etalchar{+}}11]{Polymenidou2011}
+Magdalini Polymenidou, Clotilde Lagier-Tourenne, Kasey~R Hutt, Stephanie~C
+  Huelga, Jacqueline Moran, Tiffany~Y Liang, Shuo-Chien Ling, Eveline Sun,
+  Edward Wancewicz, Curt Mazur, Holly Kordasiewicz, Yalda Sedaghat, John~Paul
+  Donohue, Lily Shiue, C~Frank Bennett, Gene~W Yeo, and Don~W Cleveland.
+\newblock {Long pre-mRNA depletion and RNA missplicing contribute to neuronal
+  vulnerability from loss of TDP-43.}
+\newblock {\em Nature neuroscience}, 14(4):459--468, 2011.
+
+\bibitem[PLTH{\etalchar{+}}12]{Polymenidou2012}
+Magdalini Polymenidou, Clotilde Lagier-Tourenne, Kasey~R. Hutt, C.~Frank
+  Bennett, Don~W. Cleveland, and Gene~W. Yeo.
+\newblock {Misregulated RNA processing in amyotrophic lateral sclerosis}.
+\newblock {\em Brain Research}, 1462:3--15, 2012.
+
+\bibitem[QH10]{Quinlan2010}
+Aaron~R Quinlan and Ira~M Hall.
+\newblock {BEDTools: a flexible suite of utilities for comparing genomic
+  features.}
+\newblock {\em Bioinformatics (Oxford, England)}, 26(6):841--2, mar 2010.
+
+\bibitem[RCN{\etalchar{+}}14]{Rigo2014}
+Frank Rigo, Seung~J Chun, Daniel~A Norris, Gene Hung, Sam Lee, John Matson,
+  Robert~A Fey, Hans Gaus, Yimin Hua, John~S Grundy, Adrian~R Krainer, Scott~P
+  Henry, and C~Frank Bennett.
+\newblock {Pharmacology of a central nervous system delivered
+  2'-O-methoxyethyl-modified survival of motor neuron splicing oligonucleotide
+  in mice and nonhuman primates.}
+\newblock {\em The Journal of pharmacology and experimental therapeutics},
+  350(1):46--55, jul 2014.
+
+\bibitem[REB{\etalchar{+}}12]{Rogelj2012}
+Boris Rogelj, Laura~E Easton, Gireesh~K Bogu, Lawrence~W Stanton, Gregor Rot,
+  Toma{\v{z}} Curk, Bla{\v{z}} Zupan, Yoichiro Sugimoto, Miha Modic, Nejc
+  Haberman, James Tollervey, Ritsuko Fujii, Toru Takumi, Christopher~E Shaw,
+  and Jernej Ule.
+\newblock {Widespread binding of FUS along nascent RNA regulates alternative
+  splicing in the brain.}
+\newblock {\em Scientific reports}, 2:603, jan 2012.
+
+\bibitem[RZB{\etalchar{+}}08]{Rutherford2008}
+Nicola~J Rutherford, Yong-Jie Zhang, Matt Baker, Jennifer~M Gass, Nicole~A
+  Finch, Ya-Fei Xu, Heather Stewart, Brendan~J Kelley, Karen Kuntz, Richard J~P
+  Crook, Jemeen Sreedharan, Caroline Vance, Eric Sorenson, Carol Lippa,
+  Eileen~H Bigio, Daniel~H Geschwind, David~S Knopman, Hiroshi Mitsumoto,
+  Ronald~C Petersen, Neil~R Cashman, Mike Hutton, Christopher~E Shaw, Kevin~B
+  Boylan, Bradley Boeve, Neill~R Graff-Radford, Zbigniew~K Wszolek, Richard~J
+  Caselli, Dennis~W Dickson, Ian~R Mackenzie, Leonard Petrucelli, and Rosa
+  Rademakers.
+\newblock {Novel mutations in TARDBP (TDP-43) in patients with familial
+  amyotrophic lateral sclerosis.}
+\newblock {\em PLoS genetics}, 4(9):e1000193, jan 2008.
+
+\bibitem[SBT{\etalchar{+}}08]{Sreedharan2008}
+Jemeen Sreedharan, Ian~P Blair, Vineeta~B Tripathi, Xun Hu, Caroline Vance,
+  Boris Rogelj, Steven Ackerley, Jennifer~C Durnall, Kelly~L Williams, Emanuele
+  Buratti, Francisco Baralle, Jacqueline de~Belleroche, J~Douglas Mitchell,
+  P~Nigel Leigh, Ammar Al-Chalabi, Christopher~C Miller, Garth Nicholson, and
+  Christopher~E Shaw.
+\newblock {TDP-43 mutations in familial and sporadic amyotrophic lateral
+  sclerosis.}
+\newblock {\em Science (New York, N.Y.)}, 319(5870):1668--72, mar 2008.
+
+\bibitem[SCP14]{Schwartz2014}
+Jacob~C. Schwartz, Thomas~R. Cech, and Roy~R. Parker.
+\newblock {Biochemical Properties and Biological Functions of FET Proteins}.
+\newblock {\em Annual Review of Biochemistry}, 84(1):141210135300003, 2014.
+
+\bibitem[SEP{\etalchar{+}}12]{Schwartz2012}
+Jacob~C. Schwartz, Christopher~C. Ebmeier, Elaine~R. Podell, Joseph Heimiller,
+  Dylan~J. Taatjes, and Thomas~R. Cech.
+\newblock {FUS binds the CTD of RNA polymerase II and regulates its
+  phosphorylation at Ser2}.
+\newblock {\em Genes and Development}, 26(24):2690--2695, 2012.
+
+\bibitem[SLL{\etalchar{+}}16]{Sharma2016}
+Aarti Sharma, Alexander~K Lyashchenko, Lei Lu, Sara~Ebrahimi Nasrabady, Margot
+  Elmaleh, Monica Mendelsohn, Adriana Nemes, Juan~Carlos Tapia, George~Z
+  Mentis, and Neil~A Shneider.
+\newblock {ALS-associated mutant FUS induces selective motor neuron
+  degeneration through toxic gain of function.}
+\newblock {\em Nature communications}, 7:10465, jan 2016.
+
+\bibitem[SLQ{\etalchar{+}}15]{Sun2015}
+Shuying Sun, Shuo-Chien Ling, Jinsong Qiu, Claudio~P Albuquerque, Yu~Zhou,
+  Seiya Tokunaga, Hairi Li, Haiyan Qiu, Anh Bui, Gene~W Yeo, Eric~J Huang,
+  Kevin Eggan, Huilin Zhou, Xiang-Dong Fu, Clotilde Lagier-Tourenne, and Don~W
+  Cleveland.
+\newblock {ALS-causative mutations in FUS/TLS confer gain and loss of function
+  by altered association with SMN and U1-snRNP.}
+\newblock {\em Nature communications}, 6:6171, 2015.
+
+\bibitem[SS87]{Shapiro1987}
+M~B Shapiro and P~Senapathy.
+\newblock {RNA splice junctions of different classes of eukaryotes: sequence
+  statistics and functional implications in gene expression.}
+\newblock {\em Nucleic acids research}, 15(17):7155--74, sep 1987.
+
+\bibitem[STK{\etalchar{+}}14]{Sephton2014}
+Chantelle~F Sephton, Amy~A Tang, Ashwinikumar Kulkarni, James West, Mieu
+  Brooks, Jeremy~J Stubblefield, Yun Liu, Michael~Q Zhang, Carla~B Green,
+  Kimberly~M Huber, Eric~J Huang, Joachim Herz, and Gang Yu.
+\newblock {Activity-dependent FUS dysregulation disrupts synaptic homeostasis.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 111(44):E4769--78, nov 2014.
+
+\bibitem[TCR{\etalchar{+}}11]{Tollervey2011}
+James~R Tollervey, Toma{\v{z}} Curk, Boris Rogelj, Michael Briese, Matteo
+  Cereda, Melis Kayikci, Julian K{\"{o}}nig, Tibor Hortob{\'{a}}gyi, Agnes~L
+  Nishimura, Vera Zupunski, Rickie Patani, Siddharthan Chandran, Gregor Rot,
+  Bla{\v{z}} Zupan, Christopher~E Shaw, and Jernej Ule.
+\newblock {Characterizing the RNA targets and position-dependent splicing
+  regulation by TDP-43.}
+\newblock {\em Nature neuroscience}, 14(4):452--8, apr 2011.
+
+\bibitem[TGE{\etalchar{+}}13]{Thomsen2013}
+Christer Thomsen, Pernilla Grundevik, Per Elias, Anders St{\aa}hlberg, and
+  Pierre Aman.
+\newblock {A conserved N-terminal motif is required for complex formation
+  between FUS, EWSR1, TAF15 and their oncogenic fusion proteins.}
+\newblock {\em FASEB journal : official publication of the Federation of
+  American Societies for Experimental Biology}, 27(12):4965--74, dec 2013.
+
+\bibitem[TVL{\etalchar{+}}11]{Ticozzi2011}
+N~Ticozzi, C~Vance, A~L Leclerc, P~Keagle, J~D Glass, D~McKenna-Yasek, P~C
+  Sapp, V~Silani, D~A Bosco, C~E Shaw, R~H Brown, and J~E Landers.
+\newblock {Mutational analysis reveals the FUS homolog TAF15 as a candidate
+  gene for familial amyotrophic lateral sclerosis.}
+\newblock {\em American journal of medical genetics. Part B, Neuropsychiatric
+  genetics : the official publication of the International Society of
+  Psychiatric Genetics}, 156B(3):285--90, apr 2011.
+
+\bibitem[UCK{\etalchar{+}}12]{Untergasser2012}
+Andreas Untergasser, Ioana Cutcutache, Triinu Koressaar, Jian Ye, Brant~C
+  Faircloth, Maido Remm, and Steven~G Rozen.
+\newblock {Primer3--new capabilities and interfaces.}
+\newblock {\em Nucleic acids research}, 40(15):e115, aug 2012.
+
+\bibitem[VRH{\etalchar{+}}09]{Vance2009}
+Caroline Vance, Boris Rogelj, Tibor Hortob{\'{a}}gyi, Kurt~J {De Vos},
+  Agnes~Lumi Nishimura, Jemeen Sreedharan, Xun Hu, Bradley Smith, Deborah
+  Ruddy, Paul Wright, Jeban Ganesalingam, Kelly~L Williams, Vineeta Tripathi,
+  Safa Al-Saraj, Ammar Al-Chalabi, P~Nigel Leigh, Ian~P Blair, Garth Nicholson,
+  Jackie de~Belleroche, Jean-Marc Gallo, Christopher~C Miller, and
+  Christopher~E Shaw.
+\newblock {Mutations in FUS, an RNA processing protein, cause familial
+  amyotrophic lateral sclerosis type 6}.
+\newblock {\em Science (New York, N.Y.)}, 323(5918):1208--1211, feb 2009.
+
+\bibitem[VSN{\etalchar{+}}13]{Vance2013}
+Caroline Vance, Emma~L Scotter, Agnes~L Nishimura, Claire Troakes, Jacqueline~C
+  Mitchell, Claudia Kathe, Hazel Urwin, Catherine Manser, Christopher~C Miller,
+  Tibor Hortob{\'{a}}gyi, Mike Dragunow, Boris Rogelj, and Christopher~E Shaw.
+\newblock {ALS mutant FUS disrupts nuclear localization and sequesters
+  wild-type FUS within cytoplasmic stress granules.}
+\newblock {\em Human molecular genetics}, 22(13):2676--88, jul 2013.
+
+\bibitem[WSL{\etalchar{+}}08]{Wang2008}
+Eric~T Wang, Rickard Sandberg, Shujun Luo, Irina Khrebtukova, Lu~Zhang,
+  Christine Mayr, Stephen~F Kingsmore, Gary~P Schroth, and Christopher~B Burge.
+\newblock {Alternative isoform regulation in human tissue transcriptomes.}
+\newblock {\em Nature}, 456(7221):470--6, nov 2008.
+
+\bibitem[WSWS12]{Wang2012a}
+Xiaowei Wang, Athanasia Spandidos, Huajun Wang, and Brian Seed.
+\newblock {PrimerBank: a PCR primer database for quantitative gene expression
+  analysis, 2012 update.}
+\newblock {\em Nucleic acids research}, 40(Database issue):D1144--9, jan 2012.
+
+\bibitem[YCL{\etalchar{+}}09]{Yeo2009}
+Gene~W Yeo, Nicole~G Coufal, Tiffany~Y Liang, Grace~E Peng, Xiang-Dong Fu, and
+  Fred~H Gage.
+\newblock {An RNA code for the FOX2 splicing regulator revealed by mapping
+  RNA-protein interactions in stem cells.}
+\newblock {\em Nature structural {\&} molecular biology}, 16(2):130--7, feb
+  2009.
+
+\bibitem[YCY{\etalchar{+}}12]{Yamazaki2012}
+Tomohiro Yamazaki, Shi Chen, Yong Yu, Biao Yan, Tyler~C Haertlein, Monica~A
+  Carrasco, Juan~C Tapia, Bo~Zhai, Rita Das, Melanie Lalancette-Hebert, Aarti
+  Sharma, Siddharthan Chandran, Gareth Sullivan, Agnes~Lumi Nishimura,
+  Christopher~E Shaw, Steve~P Gygi, Neil~A Shneider, Tom Maniatis, and Robin
+  Reed.
+\newblock {FUS-SMN protein interactions link the motor neuron diseases ALS and
+  SMA.}
+\newblock {\em Cell reports}, 2(4):799--806, oct 2012.
+
+\bibitem[YZK{\etalchar{+}}15]{Yang2015}
+Liuqing Yang, Jiayu Zhang, Marisa Kamelgarn, Chunyan Niu, Jozsef Gal, Weimin
+  Gong, and Haining Zhu.
+\newblock {Subcellular localization and RNAs determine FUS architecture in
+  different cellular compartments.}
+\newblock {\em Human molecular genetics}, 24(18):5174--83, sep 2015.
 
 \end{thebibliography}

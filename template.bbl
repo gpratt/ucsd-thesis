@@ -1,5 +1,19 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{MHDN{\etalchar{+}}00}
+\begin{thebibliography}{WVMY{\etalchar{+}}14}
+
+\bibitem[AGK{\etalchar{+}}04]{Amrani2004}
+Nadia Amrani, Robin Ganesan, Stephanie Kervestin, David~A. Mangus, Shubhendu
+  Ghosh, and Allan Jacobson.
+\newblock {A faux 3′-UTR promotes aberrant termination and triggers
+  nonsense-mediated mRNA decay}.
+\newblock {\em Nature}, 432(7013):112--118, nov 2004.
+
+\bibitem[AGVB{\etalchar{+}}11]{Althammer2011}
+Sonja Althammer, Juan Gonz{\'{a}}lez-Vallinas, Cecilia Ballar{\'{e}}, Miguel
+  Beato, and Eduardo Eyras.
+\newblock {Pyicos: a versatile toolkit for the analysis of high-throughput
+  sequencing data.}
+\newblock {\em Bioinformatics (Oxford, England)}, 27(24):3333--40, dec 2011.
 
 \bibitem[AHA{\etalchar{+}}06]{Arai2006}
 Tetsuaki Arai, Masato Hasegawa, Haruhiko Akiyama, Kenji Ikeda, Takashi Nonaka,
@@ -10,6 +24,11 @@ Tetsuaki Arai, Masato Hasegawa, Haruhiko Akiyama, Kenji Ikeda, Takashi Nonaka,
 \newblock {\em Biochemical and biophysical research communications},
   351(3):602--11, dec 2006.
 
+\bibitem[{\"{A}}N12]{Anko2012}
+Minna~Liisa {\"{A}}nk{\"{o}} and Karla~M. Neugebauer.
+\newblock {RNA-protein interactions in vivo: Global gets specific}.
+\newblock {\em Trends in Biochemical Sciences}, 37(7):255--262, jul 2012.
+
 \bibitem[AZH{\etalchar{+}}11]{Ameur2011}
 Adam Ameur, Ammar Zaghlool, Jonatan Halvardson, Anna Wetterbom, Ulf Gyllensten,
   Lucia Cavelier, and Lars Feuk.
@@ -18,10 +37,44 @@ Adam Ameur, Ammar Zaghlool, Jonatan Halvardson, Anna Wetterbom, Ulf Gyllensten,
 \newblock {\em Nature structural {\&} molecular biology}, 18(12):1435--40, dec
   2011.
 
+\bibitem[Bai11]{Bailey2011a}
+Timothy~L. Bailey.
+\newblock {DREME: Motif discovery in transcription factor ChIP-seq data}.
+\newblock {\em Bioinformatics}, 27(12):1653--1659, jun 2011.
+
+\bibitem[Bar04]{Bartel2004}
+David~P Bartel.
+\newblock {MicroRNAs: Genomics, Biogenesis, Mechanism, and Function}.
+\newblock {\em Cell}, 116(2):281--297, jan 2004.
+
 \bibitem[BB11]{Budini2011}
 Mauricio Budini and Emanuele Buratti.
 \newblock {TDP-43 autoregulation: implications for disease.}
 \newblock {\em Journal of molecular neuroscience : MN}, 45(3):473--9, dec 2011.
+
+\bibitem[BB12]{Buratti2012}
+Emanuele Buratti and Francisco~E. Baralle.
+\newblock {TDP-43: Gumming up neurons through protein-protein and protein-RNA
+  interactions}.
+\newblock {\em Trends in Biochemical Sciences}, 37(6):237--247, 2012.
+
+\bibitem[BB14]{Banerjee2014}
+Silpi Banerjee and Pierre Barraud.
+\newblock {Functions of double-stranded RNA-binding domains in
+  nucleocytoplasmic transport}.
+\newblock {\em RNA Biology}, 11(10):1226--1232, oct 2014.
+
+\bibitem[BC16]{Brinegar2016}
+Amy~E. Brinegar and Thomas~A. Cooper.
+\newblock {Roles for RNA-binding proteins in development and disease}.
+\newblock {\em Brain Research}, 1647:1--8, sep 2016.
+
+\bibitem[BDH{\etalchar{+}}13]{Borowski2013}
+Lukasz~S. Borowski, Andrzej Dziembowski, Monika~S. Hejnowicz, Piotr~P. Stepien,
+  and Roman~J. Szczesny.
+\newblock {Human mitochondrial RNA decay mediated by PNPase–hSuv3 complex
+  takes place in distinct foci}.
+\newblock {\em Nucleic Acids Research}, 41(2):1223--1240, jan 2013.
 
 \bibitem[BHV{\etalchar{+}}16]{Batra2016}
 Ranjan Batra, Kasey Hutt, Anthony Vu, Stuart~J Rabin, Michael~W Baughn, Ryan~T
@@ -37,12 +90,147 @@ a~Bertolotti, Y~Lutz, D~J Heard, P~Chambon, and L~Tora.
   polymerase II.}
 \newblock {\em The EMBO journal}, 15(18):5022--5031, 1996.
 
+\bibitem[BLH{\etalchar{+}}16]{Broughton2016}
+James~P. Broughton, Michael~T. Lovci, Jessica~L. Huang, Gene~W. Yeo, and Amy~E.
+  Pasquinelli.
+\newblock {Pairing beyond the Seed Supports MicroRNA Targeting Specificity}.
+\newblock {\em Molecular Cell}, 64(2):320--333, oct 2016.
+
+\bibitem[Boe16]{Boeva2016}
+Valentina Boeva.
+\newblock {Analysis of genomic sequence motifs for deciphering transcription
+  factor binding and transcriptional regulation in Eukaryotic cells}.
+\newblock {\em Frontiers in Genetics}, 7(FEB):24, feb 2016.
+
+\bibitem[BSD{\etalchar{+}}07]{Birney2007}
+Ewan Birney, John~A. Stamatoyannopoulos, Anindya Dutta, Roderic Guig{\'{o}},
+  Thomas~R. Gingeras, Elliott~H. Margulies, Zhiping Weng, Michael Snyder,
+  Emmanouil~T. Dermitzakis, Robert~E. Thurman, Michael~S. Kuehn, Christopher~M.
+  Taylor, Shane Neph, Christoph~M. Koch, Saurabh Asthana, Ankit Malhotra, Ivan
+  Adzhubei, Jason~A. Greenbaum, Robert~M. Andrews, Paul Flicek, Patrick~J.
+  Boyle, Hua Cao, Nigel~P. Carter, Gayle~K. Clelland, Sean Davis, Nathan Day,
+  Pawandeep Dhami, Shane~C. Dillon, Michael~O. Dorschner, Heike Fiegler,
+  Paul~G. Giresi, Jeff Goldy, Michael Hawrylycz, Andrew Haydock, Richard
+  Humbert, Keith~D. James, Brett~E. Johnson, Ericka~M. Johnson, Tristan~T.
+  Frum, Elizabeth~R. Rosenzweig, Neerja Karnani, Kirsten Lee, Gregory~C.
+  Lefebvre, Patrick~A. Navas, Fidencio Neri, Stephen~C.J. Parker, Peter~J.
+  Sabo, Richard Sandstrom, Anthony Shafer, David Vetrie, Molly Weaver, Sarah
+  Wilcox, Man Yu, Francis~S. Collins, Job Dekker, Jason~D. Lieb, Thomas~D.
+  Tullius, Gregory~E. Crawford, Shamil Sunyaev, William~S. Noble, Ian Dunham,
+  France Denoeud, Alexandre Reymond, Philipp Kapranov, Joel Rozowsky, Deyou
+  Zheng, Robert Castelo, Adam Frankish, Jennifer Harrow, Srinka Ghosh, Albin
+  Sandelin, Ivo~L. Hofacker, Robert Baertsch, Damian Keefe, Sujit Dike, Jill
+  Cheng, Heather~A. Hirsch, Edward~A. Sekinger, Julien Lagarde, Josep~F. Abril,
+  Atif Shahab, Christoph Flamm, Claudia Fried, J{\"{o}}rg Hackerm{\"{u}}ller,
+  Jana Hertel, Manja Lindemeyer, Kristin Missal, Andrea Tanzer, Stefan
+  Washietl, Jan Korbel, Olof Emanuelsson, Jakob~S. Pedersen, Nancy Holroyd,
+  Ruth Taylor, David Swarbreck, Nicholas Matthews, Mark~C. Dickson, Daryl~J.
+  Thomas, Matthew~T. Weirauch, James Gilbert, Jorg Drenkow, Ian Bell, Xiaodong
+  Zhao, K.~G. Srinivasan, Wing~Kin Sung, Hong~Sain Ooi, Kuo~Ping Chiu, Sylvain
+  Foissac, Tyler Alioto, Michael Brent, Lior Pachter, Michael~L. Tress, Alfonso
+  Valencia, Siew~Woh Choo, Chiou~Yu Choo, Catherine Ucla, Caroline Manzano,
+  Carine Wyss, Evelyn Cheung, Taane~G. Clark, James~B. Brown, Madhavan Ganesh,
+  Sandeep Patel, Hari Tammana, Jacqueline Chrast, Charlotte~N. Henrichsen,
+  Chikatoshi Kai, Jun Kawai, Ugrappa Nagalakshmi, Jiaqian Wu, Zheng Lian, Jin
+  Lian, Peter Newburger, Xueqing Zhang, Peter Bickel, John~S. Mattick, Piero
+  Carninci, Yoshihide Hayashizaki, Sherman Weissman, Tim Hubbard, Richard~M.
+  Myers, Jane Rogers, Peter~F. Stadler, Todd~M. Lowe, Chia~Lin Wei, Yijun Ruan,
+  Kevin Struhl, Mark Gerstein, Stylianos~E. Antonarakis, Yutao Fu, Eric~D.
+  Green, Ulaş Kara{\"{o}}z, Adam Siepel, James Taylor, Laura~A. Liefer,
+  Kris~A. Wetterstrand, Peter~J. Good, Elise~A. Feingold, Mark~S. Guyer,
+  Gregory~M. Cooper, George Asimenos, Colin~N. Dewey, Minmei Hou, Sergey
+  Nikolaev, Juan~I. Montoya-Burgos, Ari L{\"{o}}ytynoja, Simon Whelan, Fabio
+  Pardi, Tim Massingham, Haiyan Huang, Nancy~R. Zhang, Ian Holmes, James~C.
+  Mullikin, Abel Ureta-Vidal, Benedict Paten, Michael Seringhaus, Deanna
+  Church, Kate Rosenbloom, W.~James Kent, Eric~A. Stone, Serafim Batzoglou,
+  Nick Goldman, Ross~C. Hardison, David Haussler, Webb Miller, Arend Sidow,
+  Nathan~D. Trinklein, Zhengdong~D. Zhang, Leah Barrera, Rhona Stuart, David~C.
+  King, Adam Ameur, Stefan Enroth, Mark~C. Bieda, Jonghwan Kim, Akshay~A.
+  Bhinge, Nan Jiang, Jun Liu, Fei Yao, Vinsensius~B. Vega, Charlie~W.H. Lee,
+  Patrick Ng, Annie Yang, Zarmik Moqtaderi, Zhou Zhu, Xiaoqin Xu, Sharon
+  Squazzo, Matthew~J. Oberley, David Inman, Michael~A. Singer, Todd~A.
+  Richmond, Kyle~J. Munn, Alvaro Rada-Iglesias, Ola Wallerman, Jan Komorowski,
+  Joanna~C. Fowler, Phillippe Couttet, Alexander~W. Bruce, Oliver~M. Dovey,
+  Peter~D. Ellis, Cordelia~F. Langford, David~A. Nix, Ghia Euskirchen, Stephen
+  Hartman, Alexander~E. Urban, Peter Kraus, Sara {Van Calcar}, Nate Heintzman,
+  Tae {Hoon Kim}, Kun Wang, Chunxu Qu, Gary Hon, Rosa Luna, Christopher~K.
+  Glass, M.~Geoff Rosenfeld, Shelley~Force Aldred, Sara~J. Cooper, Anason
+  Halees, Jane~M. Lin, Hennady~P. Shulha, Xiaoling Zhang, Mousheng Xu,
+  Jaafar~N.S. Haidar, Yong Yu, Vishwanath~R. Iyer, Roland~D. Green, Claes
+  Wadelius, Peggy~J. Farnham, Bing Ren, Rachel~A. Harte, Angie~S. Hinrichs,
+  Heather Trumbower, Hiram Clawson, Jennifer Hillman-Jackson, Ann~S. Zweig,
+  Kayla Smith, Archana Thakkapallayil, Galt Barber, Robert~M. Kuhn, Donna
+  Karolchik, Lluis Armengol, Christine~P. Bird, Paul~I.W. {De Bakker},
+  Andrew~D. Kern, Nuria Lopez-Bigas, Joel~D. Martin, Barbara~E. Stranger,
+  Abigail Woodroffe, Eugene Davydov, Antigone Dimas, Eduardo Eyras, Ingileif~B.
+  Hallgr{\'{i}}msd{\'{o}}ttir, Julian Huppert, Michael~C. Zody,
+  Gon{\c{c}}alo~R. Abecasis, Xavier Estivill, Gerard~G. Bouffard, Xiaobin Guan,
+  Nancy~F. Hansen, Jacquelyn~R. Idol, Valerie~V.B. Maduro, Baishali Maskeri,
+  Jennifer~C. McDowell, Morgan Park, Pamela~J. Thomas, Alice~C. Young,
+  Robert~W. Blakesley, Donna~M. Muzny, Erica Sodergren, David~A. Wheeler,
+  Kim~C. Worley, Huaiyang Jiang, George~M. Weinstock, Richard~A. Gibbs, Tina
+  Graves, Robert Fulton, Elaine~R. Mardis, Richard~K. Wilson, Michele Clamp,
+  James Cuff, Sante Gnerre, David~B. Jaffe, Jean~L. Chang, Kerstin
+  Lindblad-Toh, Eric~S. Lander, Maxim Koriabine, Mikhail Nefedov, Kazutoyo
+  Osoegawa, Yuko Yoshinaga, Baoli Zhu, and Pieter~J. {De Jong}.
+\newblock {Identification and analysis of functional elements in 1{\%} of the
+  human genome by the ENCODE pilot project}.
+\newblock {\em Nature}, 447(7146):799--816, jun 2007.
+
+\bibitem[BSPSU15]{Bahrami-Samani2015}
+Emad Bahrami-Samani, Luiz~O.F. Penalva, Andrew~D. Smith, and Philip~J. Uren.
+\newblock {Leveraging cross-link modification events in CLIP-seq for motif
+  discovery}.
+\newblock {\em Nucleic Acids Research}, 43(1):95--103, jan 2015.
+
+\bibitem[BWR{\etalchar{+}}10]{Boitano2010}
+A.~E. Boitano, J.~Wang, R.~Romeo, L.~C. Bouchez, A.~E. Parker, S.~E. Sutton,
+  J.~R. Walker, C.~A. Flaveny, G.~H. Perdew, M.~S. Denison, P.~G. Schultz, and
+  M.~P. Cooke.
+\newblock {Aryl Hydrocarbon Receptor Antagonists Promote the Expansion of Human
+  Hematopoietic Stem Cells}.
+\newblock {\em Science}, 329(5997):1345--1348, sep 2010.
+
+\bibitem[CBC{\etalchar{+}}02]{Cosson2002}
+Bertrand Cosson, Nadia Berkova, Anne Couturier, Svetlana Chabelskaya, Michel
+  Philippe, and Galina Zhouravleva.
+\newblock {Poly(A)-binding protein and eRF3 are associated in vivo in human and
+  Xenopus cells}.
+\newblock {\em Biology of the Cell}, 94(4-5):205--216, sep 2002.
+
+\bibitem[CBS{\etalchar{+}}14]{Chakrabarti2014}
+Sutapa Chakrabarti, Fabien Bonneau, Steffen Sch{\"{u}}ssler, Elfriede Eppinger,
+  and Elena Conti.
+\newblock {Phospho-dependent and phospho-independent interactions of the
+  helicase UPF1 with the NMD factors SMG5-SMG7 and SMG6}.
+\newblock {\em Nucleic Acids Research}, 42(14):9447--9460, aug 2014.
+
+\bibitem[CCR{\etalchar{+}}11]{Cantara2011}
+William~A. Cantara, Pamela~F. Crain, Jef Rozenski, James~A. McCloskey,
+  Kimberly~A. Harris, Xiaonong Zhang, Franck~A.P. Vendeix, Daniele Fabris, and
+  Paul~F. Agris.
+\newblock {The RNA modification database, RNAMDB: 2011 update}.
+\newblock {\em Nucleic Acids Research}, 39(SUPPL. 1):D195--D201, jan 2011.
+
 \bibitem[CFP{\etalchar{+}}09]{Chambers2009}
 Stuart~M Chambers, Christopher~A Fasano, Eirini~P Papapetrou, Mark Tomishima,
   Michel Sadelain, and Lorenz Studer.
 \newblock {Highly efficient neural conversion of human ES and iPS cells by dual
   inhibition of SMAD signaling.}
 \newblock {\em Nature biotechnology}, 27(3):275--80, mar 2009.
+
+\bibitem[CGM{\etalchar{+}}11]{Corcoran2011}
+David~L Corcoran, Stoyan Georgiev, Neelanjan Mukherjee, Eva Gottwein, Rebecca~L
+  Skalsky, Jack~D Keene, and Uwe Ohler.
+\newblock {PARalyzer: definition of RNA binding sites from PAR-CLIP short-read
+  sequence data.}
+\newblock {\em Genome biology}, 12(8):R79, jan 2011.
+
+\bibitem[CHC{\etalchar{+}}13]{Cho2013}
+Hana Cho, Sisu Han, Junho Choe, Seung~Gu Park, Sun~Shim Choi, and Yoon~Ki Kim.
+\newblock {SMG5-PNRC2 is functionally dominant compared with SMG5-SMG7 in
+  mammalian nonsense-mediated mRNA decay}.
+\newblock {\em Nucleic Acids Research}, 41(2):1319--1328, jan 2013.
 
 \bibitem[CHS{\etalchar{+}}11]{Couthouis2011}
 Julien Couthouis, Michael~P Hart, James Shorter, Mariely DeJesus-Hernandez,
@@ -58,6 +246,19 @@ Julien Couthouis, Michael~P Hart, James Shorter, Mariely DeJesus-Hernandez,
 \newblock {A yeast functional screen predicts new candidate ALS disease genes.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 108(52):20881--90, dec 2011.
+
+\bibitem[CKZ{\etalchar{+}}11]{Cook2011}
+K.~B. Cook, H.~Kazan, K.~Zuberi, Q.~Morris, and T.~R. Hughes.
+\newblock {RBPDB: a database of RNA-binding specificities}.
+\newblock {\em Nucleic Acids Research}, 39(Database):D301--D308, jan 2011.
+
+\bibitem[CREP{\etalchar{+}}98]{Czaplinski1998}
+Kevin Czaplinski, Maria~J. Ruiz-Echevarria, Sergey~V. Paushkin, Xia Han, Youmin
+  Weng, Haley~A. Perlick, Harry~C. Dietz, Michael~D. Ter-Avanesyan, and
+  Stuart~W. Peltz.
+\newblock {The surveillance complex interacts with the translation release
+  factors to enhance termination and degrade aberrant mRNAs}.
+\newblock {\em Genes and Development}, 12(11):1665--1677, jun 1998.
 
 \bibitem[CRG{\etalchar{+}}09]{Corrado2009}
 Lucia Corrado, A~Ratti, C~Gellera, E~Buratti, B~Castellotti, Y~Carlomagno,
@@ -80,11 +281,30 @@ Anne E.~E Conway, Eric~L. {Van Nostrand}, Gabriel A.~A Pratt, Stefan Aigner,
   Stem Cells Important for Cell Adhesion and Survival.}
 \newblock {\em Cell reports}, 15(3):666--679, apr 2016.
 
+\bibitem[CYK{\etalchar{+}}14]{Chen2014}
+Beibei Chen, Jonghyun Yun, Min~Soo Kim, Joshua~T Mendell, and Yang Xie.
+\newblock {PIPE-CLIP: a comprehensive online tool for CLIP-seq data analysis.}
+\newblock {\em Genome biology}, 15(1):R18, jan 2014.
+
+\bibitem[Dar12]{Darnell2012}
+Robert Darnell.
+\newblock {CLIP (Cross-linking and immunoprecipitation) identification of RNAs
+  bound by a specific protein}.
+\newblock {\em Cold Spring Harbor Protocols}, 7(11):1146--1160, nov 2012.
+
 \bibitem[DDS{\etalchar{+}}13]{Dobin2013a}
-Alexander Dobin, Carrie~A Davis, Felix Schlesinger, Jorg Drenkow, Chris
-  Zaleski, Sonali Jha, Philippe Batut, Mark Chaisson, and Thomas~R Gingeras.
-\newblock {STAR: ultrafast universal RNA-seq aligner.}
-\newblock {\em Bioinformatics (Oxford, England)}, 29(1):15--21, jan 2013.
+Alexander Dobin, Carrie~A. Davis, Felix Schlesinger, Jorg Drenkow, Chris
+  Zaleski, Sonali Jha, Philippe Batut, Mark Chaisson, and Thomas~R. Gingeras.
+\newblock {STAR: Ultrafast universal RNA-seq aligner}.
+\newblock {\em Bioinformatics}, 29(1):15--21, jan 2013.
+
+\bibitem[DFA{\etalchar{+}}17]{Dominguez2017}
+Daniel Dominguez, Peter Freese, Maria~S. Alexis, Amanda Su, Myles Hochman,
+  Tsultrim Palden, Cassandra Bazile, Nicole~J Lambert, Eric~L. {Van Nostrand},
+  Gabriel~A Pratt, Gene~W Yeo, Brenton Graveley, and Christopher~B Burge.
+\newblock {Sequence, Structure and Context Preferences of Human RNA Binding
+  Proteins}.
+\newblock {\em Doi.Org}, page 201996, oct 2017.
 
 \bibitem[DGC{\etalchar{+}}09]{DelBo2009}
 R~{Del Bo}, S~Ghezzi, S~Corti, M~Pandolfo, M~Ranieri, D~Santoro, I~Ghione,
@@ -95,11 +315,127 @@ R~{Del Bo}, S~Ghezzi, S~Corti, M~Pandolfo, M~Ranieri, D~Santoro, I~Ghione,
 \newblock {\em European journal of neurology : the official journal of the
   European Federation of Neurological Societies}, 16(6):727--32, jun 2009.
 
+\bibitem[DHMB{\etalchar{+}}11]{DeJesus-Hernandez2011}
+Mariely DeJesus-Hernandez, Ian~R. Mackenzie, Bradley~F. Boeve, Adam~L. Boxer,
+  Matt Baker, Nicola~J. Rutherford, Alexandra~M. Nicholson, Ni~Cole~A. Finch,
+  Heather Flynn, Jennifer Adamson, Naomi Kouri, Aleksandra Wojtas, Pheth
+  Sengdy, Ging Yuek~R. Hsiung, Anna Karydas, William~W. Seeley, Keith~A.
+  Josephs, Giovanni Coppola, Daniel~H. Geschwind, Zbigniew~K. Wszolek, Howard
+  Feldman, David~S. Knopman, Ronald~C. Petersen, Bruce~L. Miller, Dennis~W.
+  Dickson, Kevin~B. Boylan, Neill~R. Graff-Radford, and Rosa Rademakers.
+\newblock {Expanded GGGGCC Hexanucleotide Repeat in Noncoding Region of C9ORF72
+  Causes Chromosome 9p-Linked FTD and ALS}.
+\newblock {\em Neuron}, 72(2):245--256, oct 2011.
+
+\bibitem[DKA{\etalchar{+}}12]{Dunham2012}
+Ian Dunham, Anshul Kundaje, Shelley~F. Aldred, Patrick~J. Collins, Carrie~A.
+  Davis, Francis Doyle, Charles~B. Epstein, Seth Frietze, Jennifer Harrow,
+  Rajinder Kaul, Jainab Khatun, Bryan~R. Lajoie, Stephen~G. Landt, Bum~Kyu Lee,
+  Florencia Pauli, Kate~R. Rosenbloom, Peter Sabo, Alexias Safi, Amartya
+  Sanyal, Noam Shoresh, Jeremy~M. Simon, Lingyun Song, Nathan~D. Trinklein,
+  Robert~C. Altshuler, Ewan Birney, James~B. Brown, Chao Cheng, Sarah Djebali,
+  Xianjun Dong, Jason Ernst, Terrence~S. Furey, Mark Gerstein, Belinda
+  Giardine, Melissa Greven, Ross~C. Hardison, Robert~S. Harris, Javier Herrero,
+  Michael~M. Hoffman, Sowmya Iyer, Manolis Kellis, Pouya Kheradpour, Timo
+  Lassmann, Qunhua Li, Xinying Lin, Georgi~K. Marinov, Angelika Merkel, Ali
+  Mortazavi, Stephen~C.J. Parker, Timothy~E. Reddy, Joel Rozowsky, Felix
+  Schlesinger, Robert~E. Thurman, Jie Wang, Lucas~D. Ward, Troy~W. Whitfield,
+  Steven~P. Wilder, Weisheng Wu, Hualin~S. Xi, Kevin~Y. Yip, Jiali Zhuang,
+  Bradley~E. Bernstein, Eric~D. Green, Chris Gunter, Michael Snyder, Michael~J.
+  Pazin, Rebecca~F. Lowdon, Laura~A.L. Dillon, Leslie~B. Adams, Caroline~J.
+  Kelly, Julia Zhang, Judith~R. Wexler, Peter~J. Good, Elise~A. Feingold,
+  Gregory~E. Crawford, Job Dekker, Laura Elnitski, Peggy~J. Farnham, Morgan~C.
+  Giddings, Thomas~R. Gingeras, Roderic Guig{\'{o}}, Timothy~J. Hubbard,
+  W.~James Kent, Jason~D. Lieb, Elliott~H. Margulies, Richard~M. Myers, John~A.
+  Stamatoyannopoulos, Scott~A. Tenenbaum, Zhiping Weng, Kevin~P. White, Barbara
+  Wold, Yanbao Yu, John Wrobel, Brian~A. Risk, Harsha~P. Gunawardena,
+  Heather~C. Kuiper, Christopher~W. Maier, Ling Xie, Xian Chen, Tarjei~S.
+  Mikkelsen, Shawn Gillespie, Alon Goren, Oren Ram, Xiaolan Zhang, Li~Wang,
+  Robbyn Issner, Michael~J. Coyne, Timothy Durham, Manching Ku, Thanh Truong,
+  Matthew~L. Eaton, Alex Dobin, Andrea Tanzer, Julien Lagarde, Wei Lin,
+  Chenghai Xue, Brian~A. Williams, Chris Zaleski, Maik R{\"{o}}der, Felix
+  Kokocinski, Rehab~F. Abdelhamid, Tyler Alioto, Igor Antoshechkin, Michael~T.
+  Baer, Philippe Batut, Ian Bell, Kimberly Bell, Sudipto Chakrabortty,
+  Jacqueline Chrast, Joao Curado, Thomas Derrien, Jorg Drenkow, Erica Dumais,
+  Jackie Dumais, Radha Duttagupta, Megan Fastuca, Kata Fejes-Toth, Pedro
+  Ferreira, Sylvain Foissac, Melissa~J. Fullwood, Hui Gao, David Gonzalez,
+  Assaf Gordon, C{\'{e}}dric Howald, Sonali Jha, Rory Johnson, Philipp
+  Kapranov, Brandon King, Colin Kingswood, Guoliang Li, Oscar~J. Luo, Eddie
+  Park, Jonathan~B. Preall, Kimberly Presaud, Paolo Ribeca, Daniel Robyr,
+  Xiaoan Ruan, Michael Sammeth, Kuljeet~Singh Sandhu, Lorain Schaeffer,
+  Lei~Hoon See, Atif Shahab, Jorgen Skancke, Ana~Maria Suzuki, Hazuki
+  Takahashi, Hagen Tilgner, Diane Trout, Nathalie Walters, Huaien Wang,
+  Yoshihide Hayashizaki, Alexandre Reymond, Stylianos~E. Antonarakis,
+  Gregory~J. Hannon, Yijun Ruan, Piero Carninci, Cricket~A. Sloan, Katrina
+  Learned, Venkat~S. Malladi, Matthew~C. Wong, Galt~P. Barber, Melissa~S.
+  Cline, Timothy~R. Dreszer, Steven~G. Heitner, Donna Karolchik, Vanessa~M.
+  Kirkup, Laurence~R. Meyer, Jeffrey~C. Long, Morgan Maddren, Brian~J. Raney,
+  Linda~L. Grasfeder, Paul~G. Giresi, Anna Battenhouse, Nathan~C. Sheffield,
+  Kimberly~A. Showers, Darin London, Akshay~A. Bhinge, Christopher Shestak,
+  Matthew~R. Schaner, Seul~Ki Kim, Zhuzhu~Z. Zhang, Piotr~A. Mieczkowski,
+  Joanna~O. Mieczkowska, Zheng Liu, Ryan~M. McDaniell, Yunyun Ni, Naim~U.
+  Rashid, Min~Jae Kim, Sheera Adar, Zhancheng Zhang, Tianyuan Wang, Deborah
+  Winter, Damian Keefe, Vishwanath~R. Iyer, Meizhen Zheng, Ping Wang, Jason
+  Gertz, Jost Vielmetter, E.~Christopher Partridge, Katherine~E. Varley, Clarke
+  Gasper, Anita Bansal, Shirley Pepke, Preti Jain, Henry Amrhein, Kevin~M.
+  Bowling, Michael Anaya, Marie~K. Cross, Michael~A. Muratet, Kimberly~M.
+  Newberry, Kenneth McCue, Amy~S. Nesmith, Katherine~I. Fisher-Aylor, Barbara
+  Pusey, Gilberto DeSalvo, Stephanie~L. Parker, Sreeram Balasubramanian,
+  Nicholas~S. Davis, Sarah~K. Meadows, Tracy Eggleston, J.~Scott Newberry,
+  Shawn~E. Levy, Devin~M. Absher, Wing~H. Wong, Matthew~J. Blow, Axel Visel,
+  Len~A. Pennachio, Hanna~M. Petrykowska, Alexej Abyzov, Bronwen Aken, Daniel
+  Barrell, Gemma Barson, Andrew Berry, Alexandra Bignell, Veronika Boychenko,
+  Giovanni Bussotti, Claire Davidson, Gloria Despacio-Reyes, Mark Diekhans,
+  Iakes Ezkurdia, Adam Frankish, James Gilbert, Jose~Manuel Gonzalez,
+  Ed~Griffiths, Rachel Harte, David~A. Hendrix, Toby Hunt, Irwin Jungreis, Mike
+  Kay, Ekta Khurana, Jing Leng, Michael~F. Lin, Jane Loveland, Zhi Lu, Deepa
+  Manthravadi, Marco Mariotti, Jonathan Mudge, Gaurab Mukherjee, Cedric
+  Notredame, Baikang Pei, Jose~Manuel Rodriguez, Gary Saunders, Andrea Sboner,
+  Stephen Searle, Cristina Sisu, Catherine Snow, Charlie Steward, Electra
+  Tapanari, Michael~L. Tress, Marijke~J. {Van Baren}, Stefan Washietl, Laurens
+  Wilming, Amonida Zadissa, Zhengdong Zhang, Michael Brent, David Haussler,
+  Alfonso Valencia, Nick Addleman, Roger~P. Alexander, Raymond~K. Auerbach,
+  Suganthi Balasubramanian, Keith Bettinger, Nitin Bhardwaj, Alan~P. Boyle,
+  Alina~R. Cao, Philip Cayting, Alexandra Charos, Yong Cheng, Catharine
+  Eastman, Ghia Euskirchen, Joseph~D. Fleming, Fabian Grubert, Lukas Habegger,
+  Manoj Hariharan, Arif Harmanci, Sushma Iyengar, Victor~X. Jin, Konrad~J.
+  Karczewski, Maya Kasowski, Phil Lacroute, Hugo Lam, Nathan Lamarre-Vincent,
+  Jin Lian, Marianne Lindahl-Allen, Renqiang Min, Benoit Miotto, Hannah
+  Monahan, Zarmik Moqtaderi, Xinmeng~J. Mu, Henriette O'Geen, Zhengqing Ouyang,
+  Dorrelyn Patacsil, Debasish Raha, Lucia Ramirez, Brian Reed, Minyi Shi, Teri
+  Slifer, Heather Witt, Linfeng Wu, Xiaoqin Xu, Koon~Kiu Yan, Xinqiong Yang,
+  Kevin Struhl, Sherman~M. Weissman, Luiz~O. Penalva, Subhradip Karmakar,
+  Raj~R. Bhanvadia, Alina Choudhury, Marc Domanus, Lijia Ma, Jennifer Moran,
+  Alec Victorsen, Thomas Auer, Lazaro Centanin, Michael Eichenlaub, Franziska
+  Gruhl, Stephan Heermann, Burkhard Hoeckendorf, Daigo Inoue, Tanja Kellner,
+  Stephan Kirchmaier, Claudia Mueller, Robert Reinhardt, Lea Schertel,
+  Stephanie Schneider, Rebecca Sinn, Beate Wittbrodt, Jochen Wittbrodt, Gaurav
+  Jain, Gayathri Balasundaram, Daniel~L. Bates, Rachel Byron, Theresa~K.
+  Canfield, Morgan~J. Diegel, Douglas Dunn, Abigail~K. Ebersol, Tristan Frum,
+  Kavita Garg, Erica Gist, R.~Scott Hansen, Lisa Boatman, Eric Haugen, Richard
+  Humbert, Audra~K. Johnson, Ericka~M. Johnson, Tattyana~V. Kutyavin, Kristen
+  Lee, Dimitra Lotakis, Matthew~T. Maurano, Shane~J. Neph, Fiedencio~V. Neri,
+  Eric~D. Nguyen, Hongzhu Qu, Alex~P. Reynolds, Vaughn Roach, Eric Rynes,
+  Minerva~E. Sanchez, Richard~S. Sandstrom, Anthony~O. Shafer, Andrew~B.
+  Stergachis, Sean Thomas, Benjamin Vernot, Jeff Vierstra, Shinny Vong, Hao
+  Wang, Molly~A. Weaver, Yongqi Yan, Miaohua Zhang, Joshua~M. Akey, Michael
+  Bender, Michael~O. Dorschner, Mark Groudine, Michael~J. MacCoss, Patrick
+  Navas, George Stamatoyannopoulos, Kathryn Beal, Alvis Brazma, Paul Flicek,
+  Nathan Johnson, Margus Lukk, Nicholas~M. Luscombe, Daniel Sobral, Juan~M.
+  Vaquerizas, Serafim Batzoglou, Arend Sidow, Nadine Hussami, Sofia
+  Kyriazopoulou-Panagiotopoulou, Max~W. Libbrecht, Marc~A. Schaub, Webb Miller,
+  Peter~J. Bickel, Balazs Banfai, Nathan~P. Boley, Haiyan Huang, Jingyi~Jessica
+  Li, William~Stafford Noble, Jeffrey~A. Bilmes, Orion~J. Buske, Avinash~D.
+  Sahu, Peter~V. Kharchenko, Peter~J. Park, Dannon Baker, James Taylor, and
+  Lucas Lochovsky.
+\newblock {An integrated encyclopedia of DNA elements in the human genome}.
+\newblock {\em Nature}, 489(7414):57--74, sep 2012.
+
 \bibitem[DPQ11]{Dale2011a}
-Ryan~K Dale, Brent~S Pedersen, and Aaron~R Quinlan.
-\newblock {Pybedtools: a flexible Python library for manipulating genomic
-  datasets and annotations.}
-\newblock {\em Bioinformatics (Oxford, England)}, 27(24):3423--4, dec 2011.
+Ryan~K. Dale, Brent~S. Pedersen, and Aaron~R. Quinlan.
+\newblock {Pybedtools: A flexible Python library for manipulating genomic
+  datasets and annotations}.
+\newblock {\em Bioinformatics}, 27(24):3423--3424, dec 2011.
 
 \bibitem[DVK{\etalchar{+}}09]{Daoud2009}
 H~Daoud, P~N Valdmanis, E~Kabashi, P~Dion, N~Dupr{\'{e}}, W~Camu, V~Meininger,
@@ -107,6 +443,111 @@ H~Daoud, P~N Valdmanis, E~Kabashi, P~Dion, N~Dupr{\'{e}}, W~Camu, V~Meininger,
 \newblock {Contribution of TARDBP mutations to sporadic amyotrophic lateral
   sclerosis.}
 \newblock {\em Journal of medical genetics}, 46(2):112--4, mar 2009.
+
+\bibitem[DVZ{\etalchar{+}}11]{Darnell2011}
+Jennifer~C Darnell, Sarah~J {Van Driesche}, Chaolin Zhang, Ka~Ying~Sharon Hung,
+  Aldo Mele, Claire~E Fraser, Elizabeth~F Stone, Cynthia Chen, John~J Fak,
+  Sung~Wook Chi, Donny~D Licatalosi, Joel~D Richter, and Robert~B Darnell.
+\newblock {FMRP stalls ribosomal translocation on mRNAs linked to synaptic
+  function and autism.}
+\newblock {\em Cell}, 146(2):247--61, jul 2011.
+
+\bibitem[EK15]{Ernst2015}
+Jason Ernst and Manolis Kellis.
+\newblock {Large-scale imputation of epigenomic datasets for systematic
+  annotation of diverse human tissues}.
+\newblock {\em Nature Biotechnology}, 33(4):364--376, feb 2015.
+
+\bibitem[ELAMJ09]{Eberle2009}
+Andrea~B. Eberle, S{\o}ren Lykke-Andersen, Oliver M{\"{u}}hlemann, and
+  Torben~Heick Jensen.
+\newblock {SMG6 promotes endonucleolytic cleavage of nonsense mRNA in human
+  cells}.
+\newblock {\em Nature Structural and Molecular Biology}, 16(1):49--55, jan
+  2009.
+
+\bibitem[EUA13]{Elkon2013}
+Ran Elkon, Alejandro~P. Ugalde, and Reuven Agami.
+\newblock {Alternative cleavage and polyadenylation: Extent, regulation and
+  function}.
+\newblock {\em Nature Reviews Genetics}, 14(7):496--506, jun 2013.
+
+\bibitem[FA14]{Fu2014}
+Xiang~Dong Fu and Manuel Ares.
+\newblock {Context-dependent control of alternative splicing by RNA-binding
+  proteins}.
+\newblock {\em Nature Reviews Genetics}, 15(10):689--701, aug 2014.
+
+\bibitem[FCG{\etalchar{+}}14]{Fares2014}
+I.~Fares, J.~Chagraoui, Y.~Gareau, S.~Gingras, R.~Ruel, N.~Mayotte, E.~Csaszar,
+  D.~J. H.~F. Knapp, P.~Miller, M.~Ngom, S.~Imren, D.-C. Roy, K.~L. Watts,
+  H.-P. Kiem, R.~Herrington, N.~N. Iscove, R.~K. Humphries, C.~J. Eaves,
+  S.~Cohen, A.~Marinier, P.~W. Zandstra, and G.~Sauvageau.
+\newblock {Pyrimidoindole derivatives are agonists of human hematopoietic stem
+  cell self-renewal}.
+\newblock {\em Science}, 345(6203):1509--1512, sep 2014.
+
+\bibitem[FGG{\etalchar{+}}04]{Feingold2004}
+E.~A. Feingold, P.~J. Good, M.~S. Guyer, S.~Kamholz, L.~Liefer,
+  K.~Wetterstrand, F.~S. Collins, T.~R. Gingeras, D.~Kampa, E.~A. Sekinger,
+  J.~Cheng, H.~Hirsch, S.~Ghosh, Z.~Zhu, S.~Patel, A.~Piccolboni, A.~Yang,
+  H.~Tammana, S.~Bekiranov, P.~Kapranov, R.~Harrison, G.~Church, K.~Struhl,
+  B.~Ren, T.~H. Kim, L.~O. Barrera, C.~Qu, S.~van Calcar, R.~Luna, C.~K. Glass,
+  M.~G. Rosenfeld, R.~Guigo, S.~E. Antonarakis, E.~Birney, M.~Brent,
+  L.~Pachter, A.~Reymond, E.~T. Dermitzakis, C.~Dewey, D.~Keefe, F.~Denoeud,
+  J.~Lagarde, J.~Ashurst, T.~Hubbard, J.~J. Wesselink, R.~Castelo, E.~Eyras,
+  R.~M. Myers, A.~Sidow, S.~Batzoglou, N.~D. Trinklein, S.~J. Hartman, S.~F.
+  Aldred, E.~Anton, D.~I. Schroeder, S.~S. Marticke, L.~Nguyen, J.~Schmutz,
+  J.~Grimwood, M.~Dickson, G.~M. Cooper, E.~A. Stone, G.~Asimenos, M.~Brudno,
+  A.~Dutta, N.~Karnani, C.~M. Taylor, H.~K. Kim, G.~Robins,
+  G.~Stamatoyannopoulos, J.~A. Stamatoyannopoulos, M.~Dorschner, P.~Sabo,
+  M.~Hawrylycz, R.~Humbert, J.~Wallace, M.~Yu, P.~A. Navas, M.~McArthur, W.~S.
+  Noble, I.~Dunham, C.~M. Koch, R.~M. Andrews, G.~K. Clelland, S.~Wilcox, J.~C.
+  Fowler, K.~D. James, P.~Groth, O.~M. Dovey, P.~D. Ellis, V.~L. Wraight, A.~J.
+  Mungall, P.~Dhami, H.~Fiegler, C.~F. Langford, N.~P. Carter, D.~Vetrie,
+  M.~Snyder, G.~Euskirchen, A.~E. Urban, U.~Nagalakshmi, J.~Rinn, G.~Popescu,
+  P.~Bertone, S.~Hartman, J.~Rozowsky, O.~Emanuelsson, T.~Royce, S.~Chung,
+  M.~Gerstein, Z.~Lian, J.~Lian, Y.~Nakayama, S.~Weissman, V.~Stolc,
+  W.~Tongprasit, H.~Sethi, S.~Jones, M.~Marra, H.~Shin, J.~Schein, M.~Clamp,
+  K.~Lindblad-Toh, J.~Chang, D.~B. Jaffe, M.~Kamal, E.~S. Lander, T.~S.
+  Mikkelsen, J.~Vinson, M.~C. Zody, P.~J. de~Jong, K.~Osoegawa, M.~Nefedov,
+  B.~Zhu, A.~D. Baxevanis, T.~G. Wolfsberg, G.~E. Crawford, J.~Whittle, I.~E.
+  Holt, T.~J. Vasicek, D.~Zhou, S.~Luo, E.~D. Green, G.~G. Bouffard, E.~H.
+  Margulies, M.~E. Portnoy, N.~F. Hansen, P.~J. Thomas, J.~C. McDowell,
+  B.~Maskeri, A.~C. Young, J.~R. Idol, R.~W. Blakesley, G.~Schuler, W.~Miller,
+  R.~Hardison, L.~Elnitski, P.~Shah, S.~L. Salzberg, M.~Pertea, W.~H. Majoros,
+  D.~Haussler, D.~Thomas, K.~R. Rosenbloom, H.~Clawson, A.~Siepel, W.~J. Kent,
+  Z.~Weng, S.~Jin, A.~Halees, H.~Burden, U.~Karaoz, Y.~Fu, Y.~Yu, C.~Ding,
+  C.~R. Cantor, R.~E. Kingston, J.~Dennis, R.~D. Green, M.~A. Singer, T.~A.
+  Richmond, J.~E. Norton, P.~J. Farnham, M.~J. Oberley, D.~R. Inman, M.~R.
+  McCormick, H.~Kim, C.~L. Middle, M.~C. Pirrung, X.~D. Fu, Y.~S. Kwon, Z.~Ye,
+  J.~Dekker, T.~M. Tabuchi, N.~Gheldof, J.~Dostie, and S.~C. Harvey.
+\newblock {The ENCODE (ENCyclopedia of DNA Elements) Project}.
+\newblock {\em Science}, 306(5696):636--640, oct 2004.
+
+\bibitem[FSLA10]{Franks2010}
+Tobias~M. Franks, Guramrit Singh, and Jens Lykke-Andersen.
+\newblock {Upf1 ATPase-dependent mRNP disassembly is required for completion of
+  nonsense-mediated mRNA decay}.
+\newblock {\em Cell}, 143(6):938--950, 2010.
+
+\bibitem[FWGJ10]{Fairman-Williams2010}
+Margaret~E. Fairman-Williams, Ulf~Peter Guenther, and Eckhard Jankowsky.
+\newblock {SF1 and SF2 helicases: Family matters}.
+\newblock {\em Current Opinion in Structural Biology}, 20(3):313--324, jun
+  2010.
+
+\bibitem[FZS{\etalchar{+}}16]{Flynn2016}
+Ryan~A. Flynn, Qiangfeng~Cliff Zhang, Robert~C. Spitale, Byron Lee, Maxwell~R.
+  Mumbach, and Howard~Y. Chang.
+\newblock {Transcriptome-wide interrogation of RNA secondary structure in
+  living cells with icSHAPE}.
+\newblock {\em Nature Protocols}, 11(2):273--290, 2016.
+
+\bibitem[GBYD08]{Glisovic2008}
+Tina Glisovic, Jennifer~L. Bachorik, Jeongsik Yong, and Gideon Dreyfuss.
+\newblock {RNA-binding proteins and post-transcriptional gene regulation}.
+\newblock {\em FEBS Letters}, 582(14):1977--1986, jun 2008.
 
 \bibitem[GCZ{\etalchar{+}}11]{Guo2011}
 Weirui Guo, Yanbo Chen, Xiaohong Zhou, Amar Kar, Payal Ray, Xiaoping Chen,
@@ -118,6 +559,42 @@ Weirui Guo, Yanbo Chen, Xiaohong Zhou, Amar Kar, Payal Ray, Xiaoping Chen,
 \newblock {\em Nature structural {\&} molecular biology}, 18(7):822--30, jul
   2011.
 
+\bibitem[GFM{\etalchar{+}}14]{Grosswendt2014}
+Stefanie Grosswendt, Andrei Filipchyk, Mark Manzano, Filippos Klironomos,
+  Marcel Schilling, Margareta Herzog, Eva Gottwein, and Nikolaus Rajewsky.
+\newblock {Unambiguous Identification of miRNA: Target site interactions by
+  different types of ligation reactions}.
+\newblock {\em Molecular Cell}, 54(6):1042--1054, jun 2014.
+
+\bibitem[GHT14]{Gerstberger2014}
+Stefanie Gerstberger, Markus Hafner, and Thomas Tuschl.
+\newblock {A census of human RNA-binding proteins}.
+\newblock {\em Nature Reviews Genetics}, 15(12):829--845, nov 2014.
+
+\bibitem[GPA{\etalchar{+}}10]{Guo2010}
+Yuchun Guo, Georgios Papachristoudis, Robert~C. Altshuler, Georg~K. Gerber,
+  Tommi~S. Jaakkola, David~K. Gifford, and Shaun Mahony.
+\newblock {Discovering homotypic binding events at high spatial resolution}.
+\newblock {\em Bioinformatics}, 26(24):3028--3034, 2010.
+
+\bibitem[Gre79]{Greenberg1979}
+Jay~R. Greenberg.
+\newblock {Ultraviolet light-induced crosslinking of mRNA to proteins}.
+\newblock {\em Nucleic Acids Research}, 6(2):715--732, feb 1979.
+
+\bibitem[GSM{\etalchar{+}}14]{Gregersen2014}
+Lea~H. Gregersen, Markus Schueler, Mathias Munschauer, Guido Mastrobuoni, Wei
+  Chen, Stefan Kempa, Christoph Dieterich, and Markus Landthaler.
+\newblock {MOV10 Is a 5' to 3' RNA Helicase Contributing to UPF1 mRNA Target
+  Degradation by Translocation along 3' UTRs}.
+\newblock {\em Molecular Cell}, 54(4):573--585, 2014.
+
+\bibitem[HB94]{Hodges1994}
+Peter~E. Hodges and Jean~D. Beggs.
+\newblock {U2 fulfils a commitment Genetic and biochemical studies of pre-mRNA
+  splicing have recently}.
+\newblock {\em Current Biology}, 4(3):264--267, mar 1994.
+
 \bibitem[HBS{\etalchar{+}}10]{Heinz2010}
 Sven Heinz, Christopher Benner, Nathanael Spann, Eric Bertolino, Yin~C Lin,
   Peter Laslo, Jason~X Cheng, Cornelis Murre, Harinder Singh, and Christopher~K
@@ -125,6 +602,43 @@ Sven Heinz, Christopher Benner, Nathanael Spann, Eric Bertolino, Yin~C Lin,
 \newblock {Simple combinations of lineage-determining transcription factors
   prime cis-regulatory elements required for macrophage and B cell identities.}
 \newblock {\em Molecular cell}, 38(4):576--89, may 2010.
+
+\bibitem[HDF{\etalchar{+}}06]{Harrow2006}
+Jennifer Harrow, France Denoeud, Adam Frankish, Alexandre Reymond, Chao-Kung
+  Chen, Jacqueline Chrast, Julien Lagarde, James~GR Gilbert, Roy Storey, David
+  Swarbreck, Colette Rossier, Catherine Ucla, Tim Hubbard, Stylianos~E
+  Antonarakis, Roderic Guigo, JS~Mattick, DP~Bartel, R~Guigo, P~Flicek,
+  J~Abril, A~Reymond, J~Lagarde, F~Denoeud, S~Antonarakis, M~Ashburner,
+  VB~Bajic, E~Birney, P~Deloukas, LH~Matthews, J~Ashurst, J~Burton, JG~Gilbert,
+  M~Jones, G~Stavrides, JP~Almeida, AK~Babbage, CL~Bagguley, CL~Will,
+  R~Luhrmann, G~Parra, E~Blanco, R~Guigo, C~Burge, S~Karlin, M~Wang, J~Buhler,
+  MR~Brent, T~Wiehe, S~Gebauer-Jung, T~Mitchell-Olds, R~Guigo, AA~Salamov,
+  VV~Solovyev, E~Eyras, M~Caccamo, V~Curwen, M~Clamp, E~Birney, TD~Andrews,
+  P~Bevan, M~Caccamo, Y~Chen, L~Clarke, G~Coates, J~Cuff, V~Curwen, T~Cutts,
+  M~Kozak, BP~Lewis, RE~Green, SE~Brenner, U~Ohler, N~Shomron, CB~Burge,
+  P~Kapranov, J~Drenkow, J~Cheng, J~Long, G~Helt, S~Dike, TR~Gingeras,
+  T~Shiraki, S~Kondo, S~Katayama, K~Waki, T~Kasukawa, H~Kawaji, R~Kodzius,
+  A~Watahiki, M~Nakamura, T~Arakawa, P~Ng, CL~Wei, WK~Sung, KP~Chiu,
+  L~Lipovich, CC~Ang, S~Gupta, A~Shahab, A~Ridwan, CH~Wong, SC~Potter,
+  L~Clarke, V~Curwen, S~Keenan, E~Mongin, SM~Searle, A~Stabenau, R~Storey,
+  M~Clamp, P~Rice, I~Longden, A~Bleasby, G~Benson, R~Mott, E~Birney, M~Clamp,
+  R~Durbin, TM~Lowe, SR~Eddy, TA~Down, TJ~Hubbard, SM~Searle, J~Gilbert,
+  V~Iyer, M~Clamp, EL~Sonnhammer, JC~Wootton, A~Reymond, M~Friedli,
+  CN~Henrichsen, F~Chapot, S~Deutsch, C~Ucla, C~Rossier, R~Lyle, M~Guipponi,
+  SE~Antonarakis, A~Reymond, AA~Camargo, S~Deutsch, BJ~Stevenson,
+  RB~Parmigiani, C~Ucla, F~Bettoni, C~Rossier, R~Lyle, M~Guipponi, R~Guigo,
+  ET~Dermitzakis, P~Agarwal, CP~Ponting, G~Parra, A~Reymond, JF~Abril,
+  E~Keibler, R~Lyle, and C~Ucla.
+\newblock {GENCODE: producing a reference annotation for ENCODE}.
+\newblock {\em Genome Biology}, 7(Suppl 1):S4, 2006.
+
+\bibitem[HEW{\etalchar{+}}13]{Hoffman2013}
+Michael~M. Hoffman, Jason Ernst, Steven~P. Wilder, Anshul Kundaje, Robert~S.
+  Harris, Max Libbrecht, Belinda Giardine, Paul~M. Ellenbogen, Jeffrey~A.
+  Bilmes, Ewan Birney, Ross~C. Hardison, Ian Dunham, Manolis Kellis, and
+  William~Stafford Noble.
+\newblock {Integrative annotation of chromatin elements from ENCODE data}.
+\newblock {\em Nucleic Acids Research}, 41(2):827--841, jan 2013.
 
 \bibitem[HFG{\etalchar{+}}12]{Harrow2012}
 Jennifer Harrow, Adam Frankish, Jose~M Gonzalez, Electra Tapanari, Mark
@@ -139,7 +653,32 @@ Jennifer Harrow, Adam Frankish, Jose~M Gonzalez, Electra Tapanari, Mark
   Tim~J Hubbard.
 \newblock {GENCODE: the reference human genome annotation for The ENCODE
   Project.}
-\newblock {\em Genome research}, 22(9):1760--74, sep 2012.
+\newblock {\em Genome research}, 22(9):1760--1774, sep 2012.
+
+\bibitem[HG10]{Hogg2010}
+J.~Robert Hogg and Stephen~P. Goff.
+\newblock {Upf1 senses 3'UTR length to potentiate mRNA decay}.
+\newblock {\em Cell}, 143(3):379--389, 2010.
+
+\bibitem[HKDT13]{Helwak2013}
+Aleksandra Helwak, Grzegorz Kudla, Tatiana Dudnakova, and David Tollervey.
+\newblock {Mapping the human miRNA interactome by CLASH reveals frequent
+  noncanonical binding}.
+\newblock {\em Cell}, 153(3):654--665, apr 2013.
+
+\bibitem[HKT{\etalchar{+}}16]{Hendrickson2016}
+David Hendrickson, David~R. Kelley, Danielle Tenen, Bradley Bernstein, and
+  John~L. Rinn.
+\newblock {Widespread RNA binding by chromatin-associated proteins}.
+\newblock {\em Genome Biology}, 17(1):28, dec 2016.
+
+\bibitem[HLB{\etalchar{+}}10]{Hafner2010}
+Markus Hafner, Markus Landthaler, Lukas Burger, Mohsen Khorshid, Philipp
+  Berninger, Andrea Rothballer, Manuel Ascano, Mathias Munschauer, Alexander
+  Ulrich, Greg~S Wardle, Scott Dewell, Mihaela Zavolan, and Thomas Tuschl.
+\newblock {Transcritpome wide identification of RNA binding protein and
+  microRNA target sites by PAR-CLIP}.
+\newblock {\em Cell}, 141(1):129--141, 2010.
 
 \bibitem[HLR{\etalchar{+}}11]{Hoell2011}
 Jessica~I Hoell, Erik Larsson, Simon Runge, Jeffrey~D Nusbaum, Sujitha
@@ -149,13 +688,48 @@ Jessica~I Hoell, Erik Larsson, Simon Runge, Jeffrey~D Nusbaum, Sujitha
 \newblock {\em Nature Structural {\&} Molecular Biology}, 18(12):1428--1431,
   nov 2011.
 
+\bibitem[HPCO{\etalchar{+}}15]{Henras2015}
+Anthony~K. Henras, C{\'{e}}lia Plisson-Chastang, Marie~Fran{\c{c}}oise
+  O'Donohue, Anirban Chakraborty, and Pierre~Emmanuel Gleizes.
+\newblock {An overview of pre-ribosomal RNA processing in eukaryotes}.
+\newblock {\em Wiley Interdisciplinary Reviews: RNA}, 6(2):225--242, 2015.
+
+\bibitem[HPS{\etalchar{+}}15]{Hung2015}
+T.~Hung, G.~A. Pratt, B.~Sundararaman, M.~J. Townsend, C.~Chaivorapol,
+  T.~Bhangale, R.~R. Graham, W.~Ortmann, L.~A. Criswell, G.~W. Yeo, and T.~W.
+  Behrens.
+\newblock {The Ro60 autoantigen binds endogenous retroelements and regulates
+  inflammatory gene expression}.
+\newblock {\em Science}, 350(6259):455--459, 2015.
+
+\bibitem[HRB13]{Hurt2013}
+Jessica~A. Hurt, Alex~D. Robertson, and Christopher~B. Burge.
+\newblock {Global analyses of UPF1 binding and function reveal expanded scope
+  of nonsense-mediated mRNA decay}.
+\newblock {\em Genome Research}, 23(10):1636--1650, oct 2013.
+
+\bibitem[HSH{\etalchar{+}}07]{Heintzman2007}
+Nathaniel~D Heintzman, Rhona~K Stuart, Gary Hon, Yutao Fu, Christina~W Ching,
+  R~David Hawkins, Leah~O Barrera, Sara {Van Calcar}, Chunxu Qu, Keith~a Ching,
+  Wei Wang, Zhiping Weng, Roland~D Green, Gregory~E Crawford, and Bing Ren.
+\newblock {Distinct and predictive chromatin signatures of transcriptional
+  promoters and enhancers in the human genome.}
+\newblock {\em Nature genetics}, 39(3):311--8, mar 2007.
+
 \bibitem[HVA{\etalchar{+}}12]{Huelga2012}
-Stephanie C.~C Huelga, Anthony Q.~Q Vu, Justin D.~D Arnold, Tiffany Y.~Y Liang,
-  Patrick P.~P Liu, Bernice Y.~Y Yan, John Paul~Paul Donohue, Lily Shiue, Shawn
-  Hoon, Sydney Brenner, Manuel Ares, and Gene W.~W Yeo.
+Stephanie~C. Huelga, Anthony~Q. Vu, Justin~D. Arnold, Tiffany~D. Liang,
+  Patrick~P. Liu, Bernice~Y. Yan, John~Paul Donohue, Lily Shiue, Shawn Hoon,
+  Sydney Brenner, Manuel Ares, and Gene~W. Yeo.
 \newblock {Integrative Genome-wide Analysis Reveals Cooperative Regulation of
   Alternative Splicing by hnRNP Proteins}.
 \newblock {\em Cell Reports}, 1(2):167--178, feb 2012.
+
+\bibitem[IGK{\etalchar{+}}08]{Ivanov2008}
+Pavel~V. Ivanov, Niels~H. Gehring, Joachim~B. Kunz, Matthias~W. Hentze, and
+  Andreas~E. Kulozik.
+\newblock {Interactions between UPF1, eRFs, PABP and the exon junction complex
+  suggest an integrated model for mammalian NMD pathways}.
+\newblock {\em EMBO Journal}, 27(5):736--747, mar 2008.
 
 \bibitem[IMA{\etalchar{+}}13]{Ibrahim2013}
 Fadia Ibrahim, Manolis Maragkakis, Panagiotis Alexiou, Margaret~a. Maronski,
@@ -164,11 +738,43 @@ Fadia Ibrahim, Manolis Maragkakis, Panagiotis Alexiou, Margaret~a. Maronski,
   Reveals the Impact of TAF15 on the Neuronal Transcriptome}.
 \newblock {\em Cell Reports}, 3(2):301--308, 2013.
 
+\bibitem[IZJ{\etalchar{+}}14]{Islam2014}
+Saiful Islam, Amit Zeisel, Simon Joost, Gioele {La Manno}, Pawel Zajac, Maria
+  Kasper, Peter L??nnerberg, and Sten Linnarsson.
+\newblock {Quantitative single-cell RNA-seq with unique molecular identifiers}.
+\newblock {\em Nature Methods}, 11(2):163--166, dec 2014.
+
+\bibitem[Jeo17]{Jeong2017}
+Sunjoo Jeong.
+\newblock {SR Proteins: Binders, Regulators, and Connectors of RNA}.
+\newblock {\em Molecules and Cells}, 40(1):1--9, jan 2017.
+
+\bibitem[JLH{\etalchar{+}}14]{Jung2014}
+Youngsook~L. Jung, Lovelace~J. Luquette, Joshua Ho, Francesco Ferrari, Michael
+  Tolstorukov, Aki Minoda, Robbyn Issner, Charles~B. Epstein, Gary~H. Karpen,
+  Mitzi~I. Kuroda, and Peter~J. Park.
+\newblock {Impact of sequencing depth in ChIP-seq experiments}.
+\newblock {\em Nucleic Acids Research}, 42(9):e74--e74, may 2014.
+
 \bibitem[JPV{\etalchar{+}}09]{Jobert2009a}
 Laure Jobert, Natalia Pinz{\'{o}}n, Elodie {Van Herreweghe}, Be{\'{a}}ta~E
   J{\'{a}}dy, Apostolia Guialis, Tam{\'{a}}s Kiss, and L{\'{a}}szl{\'{o}} Tora.
 \newblock {Human U1 snRNA forms a new chromatin-associated snRNP with TAF15.}
 \newblock {\em EMBO reports}, 10(5):494--500, 2009.
+
+\bibitem[JT06]{Joshua-Tor2006}
+L.~Joshua-Tor.
+\newblock {The argonautes}.
+\newblock {\em Cold Spring Harbor Symposia on Quantitative Biology},
+  71(0):67--72, jan 2006.
+
+\bibitem[KAS{\etalchar{+}}07]{Kim2007}
+Tae~Hoon Kim, Ziedulla~K. Abdullaev, Andrew~D. Smith, Keith~A. Ching, Dmitri~I.
+  Loukinov, Roland D~D. Green, Michael~Q. Zhang, Victor~V. Lobanenkov, and
+  Bing Ren.
+\newblock {Analysis of the Vertebrate Insulator Protein CTCF-Binding Sites in
+  the Human Genome}.
+\newblock {\em Cell}, 128(6):1231--1245, mar 2007.
 
 \bibitem[KBL{\etalchar{+}}09]{Kwiatkowski2009}
 Jr~Kwiatkowski, T~J, D~A Bosco, A~L Leclerc, E~Tamrazian, C~R Vanderburg,
@@ -180,12 +786,81 @@ Jr~Kwiatkowski, T~J, D~A Bosco, A~L Leclerc, E~Tamrazian, C~R Vanderburg,
   amyotrophic lateral sclerosis}.
 \newblock {\em Science (New York, N.Y.)}, 323(5918):1205--1208, feb 2009.
 
+\bibitem[Kim16]{Kim2016}
+D~Y Kim.
+\newblock {Post-transcriptional regulation of gene expression in neural stem
+  cells}.
+\newblock {\em Cell Biochem Funct}, 34(4):197--208, jun 2016.
+
+\bibitem[KJ12]{Kervestin2012}
+Stephanie Kervestin and Allan Jacobson.
+\newblock {NMD: A multifaceted response to premature translational
+  termination}.
+\newblock {\em Nature Reviews Molecular Cell Biology}, 13(11):700--712, oct
+  2012.
+
+\bibitem[KKF06]{Keene2006}
+Jack~D. Keene, Jordan~M. Komisarow, and Matthew~B. Friedersdorf.
+\newblock {RIP-Chip: The isolation and identification of mRNAs, microRNAs and
+  protein components of ribonucleoprotein complexes from cell extracts}.
+\newblock {\em Nature Protocols}, 1(1):302--307, jun 2006.
+
 \bibitem[KKX{\etalchar{+}}13]{Kwon2013}
 Ilmin Kwon, Masato Kato, Siheng Xiang, Leeju Wu, Pano Theodoropoulos, Hamid
   Mirzaei, Tina Han, Shanhai Xie, Jeffry~L Corden, and Steven~L McKnight.
 \newblock {Phosphorylation-regulated binding of RNA polymerase II to fibrous
   polymers of low-complexity domains.}
 \newblock {\em Cell}, 155(5):1049--60, nov 2013.
+
+\bibitem[KLH{\etalchar{+}}14]{Kurosaki2014}
+Tatsuaki Kurosaki, Wencheng Li, Mainul Hoque, Maximilian W~L Popp, Dmitri~N.
+  Ermolenko, Bin Tian, and Lynne~E. Maquat.
+\newblock {A Post-Translational regulatory switch on UPF1 controls targeted
+  mRNA degradation}.
+\newblock {\em Genes and Development}, 28(17):1900--1916, sep 2014.
+
+\bibitem[KLL{\etalchar{+}}14]{Katz2014}
+Yarden Katz, Feifei Li, Nicole~J. Lambert, Ethan~S. Sokol, Wai~Leong Tam,
+  Albert~W. Cheng, Edoardo~M. Airoldi, Christopher~J. Lengner, Piyush~B. Gupta,
+  Zhengquan Yu, Rudolf Jaenisch, and Christopher~B. Burge.
+\newblock {Musashi proteins are post-transcriptional regulators of the
+  epithelial-luminal cell state}.
+\newblock {\em eLife}, 3:e03915, nov 2014.
+
+\bibitem[KM13]{Kurosaki2013a}
+Tatsuaki Kurosaki and Lynne~E. Maquat.
+\newblock {Rules that govern UPF1 binding to mRNA 3′ UTRs}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(9):3357--3362, feb 2013.
+
+\bibitem[KPV{\etalchar{+}}16]{Kapeli2016}
+Katannya Kapeli, Gabriel~A Pratt, Anthony~Q Vu, Kasey~R Hutt, Fernando~J
+  Martinez, Balaji Sundararaman, Ranjan Batra, Peter Freese, Nicole~J Lambert,
+  Stephanie~C Huelga, Seung~J Chun, Tiffany~Y Liang, Jeremy Chang, John~P
+  Donohue, Lily Shiue, Jiayu Zhang, Haining Zhu, Franca Cambi, Edward
+  Kasarskis, Shawn Hoon, Manuel~Ares Jr, Christopher~B Burge, John Ravits,
+  Frank Rigo, and Gene~W Yeo.
+\newblock {Distinct and shared functions of ALS-associated proteins TDP-43, FUS
+  and TAF15 revealed by multisystem analyses}.
+\newblock {\em Nature Communications}, 7:1--14, 2016.
+
+\bibitem[KRC{\etalchar{+}}10]{Kazan2010}
+Hilal Kazan, Debashish Ray, Esther~T Chan, Timothy~R Hughes, and Quaid Morris.
+\newblock {RNAcontext: a new method for learning the sequence and structure
+  binding preferences of RNA-binding proteins.}
+\newblock {\em PLoS computational biology}, 6(7):e1000832, jan 2010.
+
+\bibitem[KRZ11]{Khorshid2011}
+Mohsen Khorshid, Christoph Rodak, and Mihaela Zavolan.
+\newblock {CLIPZ: A database and analysis environment for experimentally
+  determined binding sites of RNA-binding proteins}.
+\newblock {\em Nucleic Acids Research}, 39(SUPPL. 1):1--8, jan 2011.
+
+\bibitem[KSK14]{Kafasla2014}
+Panagiota Kafasla, Antonis Skliris, and Dimitris~L. Kontoyiannis.
+\newblock {Post-transcriptional coordination of immunological responses by
+  RNA-binding proteins}.
+\newblock {\em Nature Immunology}, 15(6):492--502, may 2014.
 
 \bibitem[KSV{\etalchar{+}}08]{Kuhnlein2008}
 Peter K{\"{u}}hnlein, Anne-Dorte Sperfeld, Ben Vanmassenhove, Vivianna {Van
@@ -195,14 +870,55 @@ Peter K{\"{u}}hnlein, Anne-Dorte Sperfeld, Ben Vanmassenhove, Vivianna {Van
   to TARDBP mutations.}
 \newblock {\em Archives of neurology}, 65(9):1185--9, sep 2008.
 
+\bibitem[KTP08]{Kharchenko2008}
+Peter~V. Kharchenko, Michael~Y. Tolstorukov, and Peter~J. Park.
+\newblock {Design and analysis of ChIP-seq experiments for DNA-binding
+  proteins}.
+\newblock {\em Nature Biotechnology}, 26(12):1351--1359, dec 2008.
+
+\bibitem[KYI{\etalchar{+}}06]{Kashima2006}
+Isao Kashima, Akio Yamashita, Natsuko Izumi, Naoyuki Kataoka, Ryo Morishita,
+  Shinichi Hoshino, Mutsuhito Ohno, Gideon Dreyfuss, and Shigeo Ohno.
+\newblock {Binding of a novel SMG-1-Upf1-eRF1-eRF3 complex (SURF) to the exon
+  junction complex triggers Upf1 phosphorylation and nonsense-mediated mRNA
+  decay}.
+\newblock {\em Genes and Development}, 20(3):355--367, jan 2006.
+
+\bibitem[KZR{\etalchar{+}}10]{Konig2010}
+Julian K{\"{o}}nig, Kathi Zarnack, Gregor Rot, Toma{\v{z}}~Tomaz Curk, Melis
+  Kayikci, Bla{\v{z}}~Blaz Zupan, Daniel~J Turner, Nicholas~M Luscombe, and
+  Jernej Ule.
+\newblock {iCLIP reveals the function of hnRNP particles in splicing at
+  individual nucleotide resolution}.
+\newblock {\em Nature structural {\&} molecular biology}, 17(7):909--915, 2010.
+
+\bibitem[Lad16]{Ladd2016}
+A.~N. Ladd.
+\newblock {New Insights Into the Role of RNA-Binding Proteins in the Regulation
+  of Heart Development}.
+\newblock {\em International Review of Cell and Molecular Biology},
+  324:125--185, 2016.
+
+\bibitem[LBHB11]{Li2011}
+Qunhua Li, James~B. Brown, Haiyan Huang, and Peter~J. Bickel.
+\newblock {Measuring reproducibility of high-throughput experiments}.
+\newblock {\em Annals of Applied Statistics}, 5(3):1752--1779, sep 2011.
+
+\bibitem[LDZ{\etalchar{+}}13]{Laurenti2013}
+Elisa Laurenti, Sergei Doulatov, Sasan Zandi, Ian Plumb, Jing Chen, Craig
+  April, Jian~Bing Fan, and John~E. Dick.
+\newblock {The transcriptional architecture of early human hematopoiesis
+  identifies multilevel control of lymphoid commitment}.
+\newblock {\em Nature Immunology}, 14(7):756--763, jul 2013.
+
 \bibitem[LGM{\etalchar{+}}13]{Lovci2013}
-Michael~T Lovci, Dana Ghanem, Henry Marr, Justin Arnold, Sherry Gee, Marilyn
-  Parra, Tiffany~Y Liang, Thomas~J Stark, Lauren~T Gehman, Shawn Hoon, Katlin~B
-  Massirer, Gabriel~A Pratt, Douglas~L Black, Joe~W Gray, John~G Conboy, and
-  Gene~W Yeo.
+Michael~T. Lovci, Dana Ghanem, Henry Marr, Justin Arnold, Sherry Gee, Marilyn
+  Parra, Tiffany~Y. Liang, Thomas~J. Stark, Lauren~T. Gehman, Shawn Hoon,
+  Katlin~B. Massirer, Gabriel~A. Pratt, Douglas~L. Black, Joe~W. Gray, John~G.
+  Conboy, and Gene~W. Yeo.
 \newblock {Rbfox proteins regulate alternative mRNA splicing through
-  evolutionarily conserved RNA bridges.}
-\newblock {\em Nature structural {\&} molecular biology}, 20(12):1434--42, dec
+  evolutionarily conserved RNA bridges}.
+\newblock {\em Nature Structural and Molecular Biology}, 20(12):1434--1442, dec
   2013.
 
 \bibitem[LHA14]{Love2014}
@@ -211,6 +927,39 @@ M.~I. Love, W.~Huber, and S.~Anders.
   with DESeq2}.
 \newblock {\em bioRxiv}, pages 1--21, 2014.
 
+\bibitem[Li11]{Li2011a}
+Heng Li.
+\newblock {A statistical framework for SNP calling, mutation discovery,
+  association mapping and population genetical parameter estimation from
+  sequencing data}.
+\newblock {\em Bioinformatics}, 27(21):2987--2993, nov 2011.
+
+\bibitem[LJI13]{Loh2013}
+Belinda Loh, Stefanie Jonas, and Elisa Izaurralde.
+\newblock {The SMG5-SMG7 heterodimer directly recruits the CCR4-NOT deadenylase
+  complex to mRNAs containing nonsense codons via interaction with POP2}.
+\newblock {\em Genes and Development}, 27(19):2125--2138, oct 2013.
+
+\bibitem[LKC{\etalchar{+}}12]{Loeb2012}
+Gabriel~B. Loeb, Aly~a. Khan, David Canner, Joseph~B. Hiatt, Jay Shendure,
+  Robert~B. Darnell, Christina~S. Leslie, and Alexander~Y. Rudensky.
+\newblock {Transcriptome-wide miR-155 Binding Map Reveals Widespread
+  Noncanonical MicroRNA Targeting}.
+\newblock {\em Molecular Cell}, 48(5):760--770, 2012.
+
+\bibitem[LL79]{Losson1979}
+Regine Losson and Francois Lacroute.
+\newblock {Interference of nonsense mutations with eukaryotic messenger RNA
+  stability [mapping/mRNA synthesis/oligo(dT)-cellulose/RNA-DNA
+  hybridization]}.
+\newblock {\em Cell Biology}, 76(10):5134--5137, oct 1979.
+
+\bibitem[LLZ{\etalchar{+}}14]{Li2014a}
+Jun~Hao Li, Shun Liu, Hui Zhou, Liang~Hu Qu, and Jian~Hua Yang.
+\newblock {StarBase v2.0: Decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA
+  interaction networks from large-scale CLIP-Seq data}.
+\newblock {\em Nucleic Acids Research}, 42(D1):D92--D97, jan 2014.
+
 \bibitem[LMF{\etalchar{+}}08]{Licatalosi2008}
 Donny~D Licatalosi, Aldo Mele, John~J Fak, Jernej Ule, Melis Kayikci, Sung~Wook
   Chi, Tyson~A Clark, Anthony~C Schweitzer, John~E Blume, Xuning Wang,
@@ -218,6 +967,62 @@ Donny~D Licatalosi, Aldo Mele, John~J Fak, Jernej Ule, Melis Kayikci, Sung~Wook
 \newblock {HITS-CLIP yields genome-wide insights into brain alternative RNA
   processing.}
 \newblock {\em Nature}, 456(7221):464--9, nov 2008.
+
+\bibitem[LMK{\etalchar{+}}12]{Landt2012}
+Stephen~G Landt, Georgi~K Marinov, Anshul Kundaje, Pouya Kheradpour, Florencia
+  Pauli, Serafim Batzoglou, Bradley~E Bernstein, Peter Bickel, James~B Brown,
+  Philip Cayting, Yiwen Chen, Gilberto DeSalvo, Charles Epstein, Katherine~I
+  Fisher-Aylor, Ghia Euskirchen, Mark Gerstein, Jason Gertz, Alexander~J
+  Hartemink, Michael~M Hoffman, Vishwanath~R Iyer, Youngsook~L Jung, Subhradip
+  Karmakar, Manolis Kellis, Peter~V Kharchenko, Qunhua Li, Tao Liu, X~Shirley
+  Liu, Lijia Ma, Aleksandar Milosavljevic, Richard~M Myers, Peter~J Park,
+  Michael~J Pazin, Marc~D Perry, Debasish Raha, Timothy~E Reddy, Joel Rozowsky,
+  Noam Shoresh, Arend Sidow, Matthew Slattery, John~A Stamatoyannopoulos,
+  Michael~Y Tolstorukov, Kevin~P White, Simon Xi, Peggy~J Farnham, Jason~D
+  Lieb, Barbara~J Wold, and Michael Snyder.
+\newblock {ChIP-seq guidelines and practices of the ENCODE and modENCODE
+  consortia.}
+\newblock {\em Genome research}, 22(9):1813--31, sep 2012.
+
+\bibitem[LMT{\etalchar{+}}11]{Lucks2011}
+J.~B. Lucks, S.~A. Mortimer, C.~Trapnell, S.~Luo, S.~Aviran, G.~P. Schroth,
+  L.~Pachter, J.~A. Doudna, and A.~P. Arkin.
+\newblock {Multiplexed RNA structure characterization with selective
+  2'-hydroxyl acylation analyzed by primer extension sequencing (SHAPE-Seq)}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  108(27):11063--11068, jul 2011.
+
+\bibitem[LPJC91]{Leeds1991}
+P.~Leeds, S.~W. Peltz, A.~Jacobson, and M.~R. Culbertson.
+\newblock {The product of the yeast UPF1 gene is required for rapid turnover of
+  mRNAs containing a premature translational termination codon}.
+\newblock {\em Genes and Development}, 5(12 A):2303--2314, dec 1991.
+
+\bibitem[LPK17]{Lewis2017}
+Cole~J.T. Lewis, Tao Pan, and Auinash Kalsotra.
+\newblock {RNA modifications and structures cooperate to guide RNA-protein
+  interactions}.
+\newblock {\em Nature Reviews Molecular Cell Biology}, 18(3):202--210, feb
+  2017.
+
+\bibitem[LPM{\etalchar{+}}15]{Lee2015}
+Suzanne~R. Lee, Gabriel~A. Pratt, Fernando~J. Martinez, Gene~W. Yeo, and Jens
+  Lykke-Andersen.
+\newblock {Target Discrimination in Nonsense-Mediated mRNA Decay Requires Upf1
+  ATPase Activity}.
+\newblock {\em Molecular Cell}, 59(3):413--425, aug 2015.
+
+\bibitem[LPTW15]{Ling2015}
+Jonathan~P. Ling, Olga Pletnikova, Juan~C. Troncoso, and Philip~C. Wong.
+\newblock {TDP-43 repression of nonconserved cryptic exons is compromised in
+  ALS-FTD}.
+\newblock {\em Science}, 349(6248):650--655, aug 2015.
+
+\bibitem[LQLM10]{Li2010}
+X.~Li, G.~Quon, H.~D. Lipshitz, and Q.~Morris.
+\newblock {Predicting in vivo binding sites of RNA-binding proteins using mRNA
+  secondary structure}.
+\newblock {\em Rna}, 16(6):1096--1107, jun 2010.
 
 \bibitem[LRH{\etalchar{+}}09]{Lemmens2009}
 R~Lemmens, V~Race, N~Hersmus, G~Matthijs, L~{Van Den Bosch}, P~{Van Damme},
@@ -261,10 +1066,27 @@ Ben Langmead, Cole Trapnell, Mihai Pop, and Steven~L Salzberg.
   the human genome.}
 \newblock {\em Genome biology}, 10(3):R25, jan 2009.
 
+\bibitem[LZM{\etalchar{+}}15]{Liu2015}
+Qi~Liu, Xue Zhong, Blair~B. Madison, Anil~K. Rustgi, and Yu~Shyr.
+\newblock {Assessing Computational Steps for CLIP-Seq Data Analysis}.
+\newblock {\em BioMed Research International}, 2015:1--10, oct 2015.
+
+\bibitem[MANM16]{Maragkakis2016}
+Manolis Maragkakis, Panagiotis Alexiou, Tadashi Nakaya, and Zissimos
+  Mourelatos.
+\newblock {CLIPSeqTools—a novel bioinformatics CLIP-seq analysis suite}.
+\newblock {\em Rna}, 22(1):1--9, jan 2016.
+
 \bibitem[Mar11]{Martin2011}
 Marcel Martin.
 \newblock {Cutadapt removes adapter sequences from high-throughput sequencing
   reads}, feb 2011.
+
+\bibitem[MFK03]{Mimura2003}
+Junsei Mimura and Yoshiaki Fujii-Kuriyama.
+\newblock {Functional role of AhR in the expression of toxic effects by TCDD}.
+\newblock {\em Biochimica et Biophysica Acta - General Subjects},
+  1619(3):263--268, feb 2003.
 
 \bibitem[MHDN{\etalchar{+}}00]{Muller-Hartmann2000}
 H~M{\"{u}}ller-Hartmann, H~Deissler, F~Naumann, B~Schmitz, J~Schr{\"{o}}er, and
@@ -272,6 +1094,70 @@ H~M{\"{u}}ller-Hartmann, H~Deissler, F~Naumann, B~Schmitz, J~Schr{\"{o}}er, and
 \newblock {The human 20-kDa 5'-(CGG)(n)-3'-binding protein is targeted to the
   nucleus and affects the activity of the FMR1 promoter.}
 \newblock {\em The Journal of biological chemistry}, 275(9):6447--52, mar 2000.
+
+\bibitem[MKE13]{Miller2013}
+Paul~H. Miller, David~J.H.F. Knapp, and Connie~J. Eaves.
+\newblock {Heterogeneity in hematopoietic stem cell populations}.
+\newblock {\em Current Opinion in Hematology}, 20(4):257--264, jul 2013.
+
+\bibitem[MKPW14]{Marinov2013}
+Georgi~K Marinov, Anshul Kundaje, Peter~J Park, and Barbara~J Wold.
+\newblock {Large-Scale Quality Analysis of Published ChIP-seq Data}.
+\newblock {\em G3: Genes|Genomes|Genetics}, 4(2):209--223, 2014.
+
+\bibitem[MKRR81]{Maquat1981}
+Lynne~E. Maquat, Alan~J. Kinniburgh, Eliezer~A. Rachmilewitz, and Jeffrey Ross.
+\newblock {Unstable $\beta$-globin mRNA in mRNA-deficient $\beta$0
+  thalassemia}.
+\newblock {\em Cell}, 27(3 PART 2):543--553, 1981.
+
+\bibitem[MLCB14]{Maticzka2014}
+Daniel Maticzka, Sita~J. Lange, Fabrizio Costa, and Rolf Backofen.
+\newblock {GraphProt: Modeling binding preferences of RNA-binding proteins}.
+\newblock {\em Genome Biology}, 15(1):R17, jan 2014.
+
+\bibitem[Moo05]{Moore2005}
+M.~J. Moore.
+\newblock {From Birth to Death: The Complex Lives of Eukaryotic mRNAs}.
+\newblock {\em Science}, 309(5740):1514--1518, sep 2005.
+
+\bibitem[MPV{\etalchar{+}}16]{Martinez2016}
+Fernando~J. Martinez, Gabriel~A. Pratt, Eric~L. {Van Nostrand}, Ranjan Batra,
+  Stephanie~C. Huelga, Katannya Kapeli, Peter Freese, Seung~J. Chun, Karen
+  Ling, Chelsea Gelboin-Burkhart, Layla Fijany, Harrison~C. Wang, Julia~K.
+  Nussbacher, Sara~M. Broski, Hong~Joo Kim, Rea Lardelli, Balaji Sundararaman,
+  John~P. Donohue, Ashkan Javaherian, Jens Lykke-Andersen, Steven Finkbeiner,
+  C.~Frank Bennett, Manuel Ares, Christopher~B. Burge, J.~Paul Taylor, Frank
+  Rigo, and Gene~W. Yeo.
+\newblock {Protein-RNA Networks Regulated by Normal and ALS-Associated Mutant
+  HNRNPA2B1 in the Nervous System}.
+\newblock {\em Neuron}, 92(4):780--795, 2016.
+
+\bibitem[MPZ{\etalchar{+}}15]{Meyer2015}
+Kate~D. Meyer, Deepak~P. Patil, Jun Zhou, Alexandra Zinoviev, Maxim~A. Skabkin,
+  Olivier Elemento, Tatyana~V. Pestova, Shu~Bing Qian, and Samie~R. Jaffrey.
+\newblock {5′ UTR m6A Promotes Cap-Independent Translation}.
+\newblock {\em Cell}, 163(4):999--1010, nov 2015.
+
+\bibitem[MRM{\etalchar{+}}17]{Miranda2017}
+Rafael~G. Miranda, Margarita Rojas, Michael~P. Montgomery, Kyle~P. Gribbin, and
+  Alice Barkan.
+\newblock {RNA-binding specificity landscape of the pentatricopeptide repeat
+  protein PPR10}.
+\newblock {\em Rna}, 23(4):586--599, apr 2017.
+
+\bibitem[MS04]{Mili2004}
+Stavroula Mili and Joan~A Steitz.
+\newblock {Evidence for reassociation of RNA-binding proteins after cell lysis:
+  implications for the interpretation of immunoprecipitation analyses.}
+\newblock {\em RNA (New York, N.Y.)}, 10(11):1692--4, nov 2004.
+
+\bibitem[MSL{\etalchar{+}}15]{Moore2015}
+Michael~J. Moore, Troels~K.H. Scheel, Joseph~M. Luna, Christopher~Y. Park,
+  John~J. Fak, Eiko Nishiuchi, Charles~M. Rice, and Robert~B. Darnell.
+\newblock {MiRNA-target chimeras reveal miRNA 3′-end pairing as a major
+  determinant of Argonaute target specificity}.
+\newblock {\em Nature Communications}, 6:8864, nov 2015.
 
 \bibitem[NBD{\etalchar{+}}11]{Neumann2011}
 Manuela Neumann, Eva Bentmann, Dorothee Dormann, Ali Jawaid, Mariely
@@ -283,6 +1169,39 @@ Manuela Neumann, Eva Bentmann, Dorothee Dormann, Ali Jawaid, Mariely
   mutations}.
 \newblock {\em Brain}, 134(9):2595--2609, 2011.
 
+\bibitem[NBLTY15]{Nussbacher2015}
+Julia~K. Nussbacher, Ranjan Batra, Clotilde Lagier-Tourenne, and Gene~W. Yeo.
+\newblock {RNA-binding proteins in neurodegeneration: Seq and you shall
+  receive}.
+\newblock {\em Trends in Neurosciences}, 38(4):226--236, apr 2015.
+
+\bibitem[NFBK17]{Nicholson2017}
+Cindo~O. Nicholson, Matthew~B. Friedersdorf, Laura~S. Bisogno, and Jack~D.
+  Keene.
+\newblock {DO-RIP-seq to quantify RNA binding sites transcriptome-wide}.
+\newblock {\em Methods}, 118-119(1):16--23, jan 2017.
+
+\bibitem[Nis16]{Nishikura2016}
+Kazuko Nishikura.
+\newblock {A-to-I editing of coding and non-coding RNAs by ADARs}.
+\newblock {\em Nature Reviews Molecular Cell Biology}, 17(2):83--96, dec 2016.
+
+\bibitem[NJF{\etalchar{+}}16]{Nellore2016}
+Abhinav Nellore, Andrew~E. Jaffe, Jean~Philippe Fortin, Jos{\'{e}}
+  Alquicira-Hern{\'{a}}ndez, Leonardo Collado-Torres, Siruo Wang, Robert~A.
+  Phillips, Nishika Karbhari, Kasper~D. Hansen, Ben Langmead, and Jeffrey~T.
+  Leek.
+\newblock {Human splicing diversity and the extent of unannotated splice
+  junctions across human RNA-seq samples on the Sequence Read Archive}.
+\newblock {\em Genome Biology}, 17(1):266, dec 2016.
+
+\bibitem[NJK{\etalchar{+}}14]{Nicholson2014}
+Pamela Nicholson, Christoph Josi, Hitomi Kurosawa, Akio Yamashita, and Oliver
+  M{\"{u}}hlemann.
+\newblock {A novel phosphorylation-independent interaction between SMG6 and
+  UPF1 is essential for human NMD}.
+\newblock {\em Nucleic Acids Research}, 42(14):9217--9235, aug 2014.
+
 \bibitem[NSK{\etalchar{+}}06]{Neumann2006a}
 Manuela Neumann, Deepak~M. Sampathu, Linda~K. Kwong, Adam~C. Truax, Matthew~C.
   Micsenyi, Thomas~T. Chou, Jennifer Bruce, Theresa Schuck, Murray Grossman,
@@ -292,6 +1211,31 @@ Manuela Neumann, Deepak~M. Sampathu, Linda~K. Kwong, Adam~C. Truax, Matthew~C.
 \newblock {Ubiquitinated TDP-43 in frontotemporal lobar degeneration and
   amyotrophic lateral sclerosis.}
 \newblock {\em Science}, 314(5796):130--3, oct 2006.
+
+\bibitem[NSL{\etalchar{+}}11]{Novershtern2011}
+Noa Novershtern, Aravind Subramanian, Lee~N. Lawton, Raymond~H. Mak,
+  W.~Nicholas Haining, Marie~E. McConkey, Naomi Habib, Nir Yosef, Cindy~Y.
+  Chang, Tal Shay, Garrett~M. Frampton, Adam C~B Drake, Ilya Leskov, Bjorn
+  Nilsson, Fred Preffer, David Dombkowski, John~W. Evans, Ted Liefeld, John~S.
+  Smutko, Jianzhu Chen, Nir Friedman, Richard~A. Young, Todd~R. Golub, Aviv
+  Regev, and Benjamin~L. Ebert.
+\newblock {Densely interconnected transcriptional circuits control cell states
+  in human hematopoiesis}.
+\newblock {\em Cell}, 144(2):296--309, jan 2011.
+
+\bibitem[OKYK{\etalchar{+}}12]{Okada-Katsuhata2012}
+Yukiko Okada-Katsuhata, Akio Yamashita, Kei Kutsuzawa, Natsuko Izumi, Fumiki
+  Hirahara, and Shigeo Ohno.
+\newblock {N-and C-terminal Upf1 phosphorylations create binding platforms for
+  SMG-6 and SMG-5:SMG-7 during NMD}.
+\newblock {\em Nucleic Acids Research}, 40(3):1251--1266, feb 2012.
+
+\bibitem[ONT{\etalchar{+}}12]{Ohyama2012}
+Takako Ohyama, Takashi Nagata, Kengo Tsuda, Naohiro Kobayashi, Takao Imai,
+  Hideyuki Okano, Toshio Yamazaki, and Masato Katahira.
+\newblock {Structure of Musashi1 in a complex with target RNA: The role of
+  aromatic stacking interactions}.
+\newblock {\em Nucleic Acids Research}, 40(7):3218--3231, apr 2012.
 
 \bibitem[ORJ{\etalchar{+}}12]{Olszewski2012}
 Pawel~K Olszewski, Jan Rozman, Josefin~A Jacobsson, Birgit Rathkolb, Siv
@@ -305,6 +1249,29 @@ Pawel~K Olszewski, Jan Rozman, Josefin~A Jacobsson, Birgit Rathkolb, Siv
   associated with body fat mass and feeding behavior in mice and body-mass
   index in humans.}
 \newblock {\em PLoS genetics}, 8(3):e1002568, jan 2012.
+
+\bibitem[PA93]{Pulak1993}
+R.~Pulak and P.~Anderson.
+\newblock {mRNA Surveillance by the Caenorhabditis elegans smg genes}.
+\newblock {\em Genes and Development}, 7(10):1885--1897, oct 1993.
+
+\bibitem[PBA17]{Pereira2017}
+Bruno Pereira, Marc Billaud, and Raquel Almeida.
+\newblock {RNA-Binding Proteins in Cancer: Old Players and New Actors}.
+\newblock {\em Trends in Cancer}, 3(7):506--528, jul 2017.
+
+\bibitem[PIB{\etalchar{+}}12]{Peixeiro2012}
+Isabel Peixeiro, {\^{A}}ngela In{\'{a}}cio, Cristina Barbosa, Ana~Lu{\'{i}}sa
+  Silva, Stephen~A. Liebhaber, and Lu{\'{i}}sa Rom{\~{a}}o.
+\newblock {Interaction of PABPC1 with the translation initiation complex is
+  critical to the NMD resistance of AUG-proximal nonsense mutations}.
+\newblock {\em Nucleic Acids Research}, 40(3):1160--1173, feb 2012.
+
+\bibitem[PL13]{Porrua2013}
+Odil Porrua and Domenico Libri.
+\newblock {RNA quality control in the nucleus: The Angels' share of RNA}.
+\newblock {\em Biochimica et Biophysica Acta - Gene Regulatory Mechanisms},
+  1829(6-7):604--611, 2013.
 
 \bibitem[PLTH{\etalchar{+}}11]{Polymenidou2011}
 Magdalini Polymenidou, Clotilde Lagier-Tourenne, Kasey~R Hutt, Stephanie~C
@@ -321,11 +1288,34 @@ Magdalini Polymenidou, Clotilde Lagier-Tourenne, Kasey~R. Hutt, C.~Frank
 \newblock {Misregulated RNA processing in amyotrophic lateral sclerosis}.
 \newblock {\em Brain Research}, 1462:3--15, 2012.
 
+\bibitem[PTSC{\etalchar{+}}12]{Paige2012}
+Sharon~L Paige, Sean Thomas, Cristi~L Stoick-Cooper, Hao Wang, Lisa Maves,
+  Richard Sandstrom, Lil Pabon, Hans Reinecke, Gabriel Pratt, Gordon Keller,
+  Randall~T Moon, John Stamatoyannopoulos, and Charles~E Murry.
+\newblock {A temporal chromatin signature in human embryonic stem cells
+  identifies regulators of cardiac development.}
+\newblock {\em Cell}, 151(1):221--32, sep 2012.
+
+\bibitem[PWA{\etalchar{+}}12]{Pugh2012}
+Trevor~J. Pugh, Shyamal~Dilhan Weeraratne, Tenley~C. Archer, Daniel~A.
+  {Pomeranz Krummel}, Daniel Auclair, James Bochicchio, Mauricio~O. Carneiro,
+  Scott~L. Carter, Kristian Cibulskis, Rachel~L. Erlich, Heidi Greulich, Heidi
+  Greulich, Niall~J. Lennon, Aaron {Mc Kenna}, James Meldrim, Alex~H. Ramos,
+  Michael~G. Ross, Carsten Russ, Erica Shefler, Andrey Sivachenko, Brian
+  Sogoloff, Petar Stojanov, Pablo Tamayo, Jill~P. Mesirov, Vladimir Amani,
+  Natalia Teider, Soma Sengupta, Jessica~Pierre Francois, Paul~A. Northcott,
+  Michael~D. Taylor, Furong Yu, Gerald~R. Crabtree, Amanda~G. Kautzman,
+  Stacey~B. Gabriel, Gad Getz, Natalie J{\"{a}}ger, David T~W Jones, Peter
+  Lichter, Stefan~M. Pfister, Thomas~M. Roberts, Jeffery~L. Dangl, Scott~L.
+  Pomeroy, and Yoon~Jae Cho.
+\newblock {Medulloblastoma exome sequencing uncovers subtype-specific somatic
+  mutations}, jul 2012.
+
 \bibitem[QH10]{Quinlan2010}
-Aaron~R Quinlan and Ira~M Hall.
-\newblock {BEDTools: a flexible suite of utilities for comparing genomic
-  features.}
-\newblock {\em Bioinformatics (Oxford, England)}, 26(6):841--2, mar 2010.
+Aaron~R. Quinlan and Ira~M. Hall.
+\newblock {BEDTools: A flexible suite of utilities for comparing genomic
+  features}.
+\newblock {\em Bioinformatics}, 26(6):841--842, mar 2010.
 
 \bibitem[RCN{\etalchar{+}}14]{Rigo2014}
 Frank Rigo, Seung~J Chun, Daniel~A Norris, Gene Hung, Sam Lee, John Matson,
@@ -345,6 +1335,57 @@ Boris Rogelj, Laura~E Easton, Gireesh~K Bogu, Lawrence~W Stanton, Gregor Rot,
 \newblock {Widespread binding of FUS along nascent RNA regulates alternative
   splicing in the brain.}
 \newblock {\em Scientific reports}, 2:603, jan 2012.
+
+\bibitem[RHK{\etalchar{+}}14]{Rossbach2014}
+Oliver Rossbach, Lee-Hsueh Hung, Ekaterina Khrameeva, Silke Schreiner, Julian
+  K{\"{o}}nig, Toma{\v{z}} Curk, Bla{\v{z}} Zupan, Jernej Ule, Mikhail~S
+  Gelfand, and Albrecht Bindereif.
+\newblock {Crosslinking-immunoprecipitation (iCLIP) analysis reveals global
+  regulatory roles of hnRNP L}.
+\newblock {\em RNA Biology}, 11(2):146--155, 2014.
+
+\bibitem[RKC{\etalchar{+}}09]{Ray2009}
+Debashish Ray, Hilal Kazan, Esther~T Chan, Lourdes~Pe{\~{n}}a Castillo,
+  Sidharth Chaudhry, Shaheynoor Talukder, Benjamin~J Blencowe, Quaid Morris,
+  and Timothy~R Hughes.
+\newblock {Rapid and systematic analysis of the RNA recognition specificities
+  of RNA-binding proteins}.
+\newblock {\em Nature Biotechnology}, 27(7):667--670, jul 2009.
+
+\bibitem[RKC{\etalchar{+}}13]{Ray2013}
+Debashish Ray, Hilal Kazan, Kate~B. Cook, Matthew~T. Weirauch, Hamed~S.
+  Najafabadi, Xiao Li, Serge Gueroussov, Mihai Albu, Hong Zheng, Ally Yang,
+  Hong Na, Manuel Irimia, Leah~H. Matzat, Ryan~K. Dale, Sarah~A. Smith,
+  Christopher~A. Yarosh, Seth~M. Kelly, Behnam Nabet, Desirea Mecenas, Weimin
+  Li, Rakesh~S. Laishram, Mei Qiao, Howard~D. Lipshitz, Fabio Piano, Anita~H.
+  Corbett, Russ~P. Carstens, Brendan~J. Frey, Richard~A. Anderson, Kristen~W.
+  Lynch, Luiz~O.F. Penalva, Elissa~P. Lei, Andrew~G. Fraser, Benjamin~J.
+  Blencowe, Quaid~D. Morris, and Timothy~R. Hughes.
+\newblock {A compendium of RNA-binding motifs for decoding gene regulation}.
+\newblock {\em Nature}, 499(7457):172--177, jul 2013.
+
+\bibitem[RMW{\etalchar{+}}11]{Renton2011}
+Alan~E. Renton, Elisa Majounie, Adrian Waite, Javier Sim{\'{o}}n-S{\'{a}}nchez,
+  Sara Rollinson, J.~Raphael Gibbs, Jennifer~C. Schymick, Hannu Laaksovirta,
+  John~C. van Swieten, Liisa Myllykangas, Hannu Kalimo, Anders Paetau,
+  Yevgeniya Abramzon, Anne~M. Remes, Alice Kaganovich, Sonja~W. Scholz, Jamie
+  Duckworth, Jinhui Ding, Daniel~W. Harmer, Dena~G. Hernandez, Janel~O.
+  Johnson, Kin Mok, Mina Ryten, Danyah Trabzuni, Rita~J. Guerreiro, Richard~W.
+  Orrell, James Neal, Alex Murray, Justin Pearson, Iris~E. Jansen, David
+  Sondervan, Harro Seelaar, Derek Blake, Kate Young, Nicola Halliwell,
+  Janis~Bennion Callister, Greg Toulson, Anna Richardson, Alex Gerhard, Julie
+  Snowden, David Mann, David Neary, Michael~A. Nalls, Terhi Peuralinna, Lilja
+  Jansson, Veli~Matti Isoviita, Anna~Lotta Kaivorinne, Maarit
+  H{\"{o}}ltt{\"{a}}-Vuori, Elina Ikonen, Raimo Sulkava, Michael Benatar,
+  Joanne Wuu, Adriano Chi{\`{o}}, Gabriella Restagno, Giuseppe Borghero, Mario
+  Sabatelli, David Heckerman, Ekaterina Rogaeva, Lorne Zinman, Jeffrey~D.
+  Rothstein, Michael Sendtner, Carsten Drepper, Evan~E. Eichler, Can Alkan,
+  Ziedulla Abdullaev, Svetlana~D. Pack, Amalia Dutra, Evgenia Pak, John Hardy,
+  Andrew Singleton, Nigel~M. Williams, Peter Heutink, Stuart Pickering-Brown,
+  Huw~R. Morris, Pentti~J. Tienari, and Bryan~J. Traynor.
+\newblock {A hexanucleotide repeat expansion in C9ORF72 is the cause of
+  chromosome 9p21-linked ALS-FTD}.
+\newblock {\em Neuron}, 72(2):257--268, oct 2011.
 
 \bibitem[RZB{\etalchar{+}}08]{Rutherford2008}
 Nicola~J Rutherford, Yong-Jie Zhang, Matt Baker, Jennifer~M Gass, Nicole~A
@@ -381,6 +1422,19 @@ Jacob~C. Schwartz, Christopher~C. Ebmeier, Elaine~R. Podell, Joseph Heimiller,
   phosphorylation at Ser2}.
 \newblock {\em Genes and Development}, 26(24):2690--2695, 2012.
 
+\bibitem[SHS17]{Smith2017}
+Tom Smith, Andreas Heger, and Ian Sudbery.
+\newblock {UMI-tools: Modeling sequencing errors in Unique Molecular
+  Identifiers to improve quantification accuracy}.
+\newblock {\em Genome Research}, 27(3):491--499, mar 2017.
+
+\bibitem[SLA{\etalchar{+}}14]{Silverman2014}
+Ian~M. Silverman, Fan Li, Anissa Alexander, Loyal Goff, Cole Trapnell, John~L.
+  Rinn, and Brian~D. Gregory.
+\newblock {RNase-mediated protein footprint sequencing reveals protein-binding
+  sites throughout the human transcriptome}.
+\newblock {\em Genome Biology}, 15(1):R3, jan 2014.
+
 \bibitem[SLL{\etalchar{+}}16]{Sharma2016}
 Aarti Sharma, Alexander~K Lyashchenko, Lei Lu, Sara~Ebrahimi Nasrabady, Margot
   Elmaleh, Monica Mendelsohn, Adriana Nemes, Juan~Carlos Tapia, George~Z
@@ -398,11 +1452,43 @@ Shuying Sun, Shuo-Chien Ling, Jinsong Qiu, Claudio~P Albuquerque, Yu~Zhou,
   by altered association with SMN and U1-snRNP.}
 \newblock {\em Nature communications}, 6:6171, 2015.
 
+\bibitem[SM00]{Shatkin2000}
+Aaron~J. Shatkin and James~L. Manley.
+\newblock {The ends of the affair: Capping and polyadenylation}.
+\newblock {\em Nature Structural Biology}, 7(10):838--842, oct 2000.
+
+\bibitem[SQWVZ17]{Shah2017}
+Ankeeta Shah, Yingzhi Qian, Sebastien~M. Weyn-Vanhentenryck, and Chaolin Zhang.
+\newblock {CLIP Tool Kit (CTK): A flexible and robust pipeline to analyze CLIP
+  sequencing data}.
+\newblock {\em Bioinformatics}, 33(4):566--567, oct 2017.
+
+\bibitem[SRLA08]{Singh2008}
+Guramrit Singh, Indrani Rebbapragada, and Jens Lykke-Andersen.
+\newblock {A competition between stimulators and antagonists of Upf complex
+  recruitment governs human nonsense-mediated mRNA decay}.
+\newblock {\em PLoS Biology}, 6(4):860--871, apr 2008.
+
+\bibitem[SRZ{\etalchar{+}}13]{Schweingruber2013}
+Christoph Schweingruber, Simone~C. Rufener, David Z{\"{u}}nd, Akio Yamashita,
+  and Oliver M{\"{u}}hlemann.
+\newblock {Nonsense-mediated mRNA decay - Mechanisms of substrate mRNA
+  recognition and degradation in mammalian cells}.
+\newblock {\em Biochimica et Biophysica Acta - Gene Regulatory Mechanisms},
+  1829(6-7):612--623, feb 2013.
+
 \bibitem[SS87]{Shapiro1987}
 M~B Shapiro and P~Senapathy.
 \newblock {RNA splice junctions of different classes of eukaryotes: sequence
   statistics and functional implications in gene expression.}
 \newblock {\em Nucleic acids research}, 15(17):7155--74, sep 1987.
+
+\bibitem[SSS{\etalchar{+}}12]{Sievers2012}
+Cem Sievers, Tommy Schlumpf, Ritwick Sawarkar, Federico Comoglio, and Renato
+  Paro.
+\newblock {Mixture models and wavelet transforms reveal high confidence
+  RNA-protein interaction sites in MOV10 PAR-CLIP data}.
+\newblock {\em Nucleic Acids Research}, 40(20), 2012.
 
 \bibitem[STK{\etalchar{+}}14]{Sephton2014}
 Chantelle~F Sephton, Amy~A Tang, Ashwinikumar Kulkarni, James West, Mieu
@@ -411,6 +1497,22 @@ Chantelle~F Sephton, Amy~A Tang, Ashwinikumar Kulkarni, James West, Mieu
 \newblock {Activity-dependent FUS dysregulation disrupts synaptic homeostasis.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 111(44):E4769--78, nov 2014.
+
+\bibitem[SZB{\etalchar{+}}16]{Sundararaman2016}
+Balaji Sundararaman, Lijun Zhan, Steven~M. Blue, Rebecca Stanton, Keri Elkins,
+  Sara Olson, Xintao Wei, Eric~L. {Van Nostrand}, Gabriel~A. Pratt,
+  Stephanie~C. Huelga, Brendan~M. Smalec, Xiaofeng Wang, Eurie~L. Hong, Jean~M.
+  Davidson, Eric L{\'{e}}cuyer, Brenton~R. Graveley, and Gene~W. Yeo.
+\newblock {Resources for the Comprehensive Discovery of Functional RNA
+  Elements}.
+\newblock {\em Molecular Cell}, 61(6):903--913, mar 2016.
+
+\bibitem[TCLK00]{Tenenbaum2000}
+S~a Tenenbaum, C~C Carson, P~J Lager, and J~D Keene.
+\newblock {Identifying mRNA subsets in messenger ribonucleoprotein complexes by
+  using cDNA arrays.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 97(26):14085--90, dec 2000.
 
 \bibitem[TCR{\etalchar{+}}11]{Tollervey2011}
 James~R Tollervey, Toma{\v{z}} Curk, Boris Rogelj, Michael Briese, Matteo
@@ -421,6 +1523,12 @@ James~R Tollervey, Toma{\v{z}} Curk, Boris Rogelj, Michael Briese, Matteo
   regulation by TDP-43.}
 \newblock {\em Nature neuroscience}, 14(4):452--8, apr 2011.
 
+\bibitem[TDH{\etalchar{+}}09]{Taylor2009}
+Derek~J Taylor, Batsal Devkota, Andrew~D Huang, Maya Topf, Eswar Narayanan,
+  Andrej Sali, Stephen~C Harvey, and Joachim Frank.
+\newblock {Comprehensive Molecular Structure of the Eukaryotic Ribosome}.
+\newblock {\em Structure}, 17(12):1591--1604, dec 2009.
+
 \bibitem[TGE{\etalchar{+}}13]{Thomsen2013}
 Christer Thomsen, Pernilla Grundevik, Per Elias, Anders St{\aa}hlberg, and
   Pierre Aman.
@@ -428,6 +1536,19 @@ Christer Thomsen, Pernilla Grundevik, Per Elias, Anders St{\aa}hlberg, and
   between FUS, EWSR1, TAF15 and their oncogenic fusion proteins.}
 \newblock {\em FASEB journal : official publication of the Federation of
   American Societies for Experimental Biology}, 27(12):4965--74, dec 2013.
+
+\bibitem[Tij05]{Tijet2005}
+N.~Tijet.
+\newblock {The aryl hydrocarbon receptor regulates distinct dioxin-dependent
+  and dioxin-independent gene batteries}.
+\newblock {\em Molecular Pharmacology}, 69(1):140--53, jan 2005.
+
+\bibitem[TTPMW06]{Townley-Tilson2006}
+W~H~Davin Townley-Tilson, Sarah~A Pendergrass, William~F Marzluff, and
+  Michael~L Whitfield.
+\newblock {Genome-wide analysis of mRNAs bound to the histone stem-loop binding
+  protein.}
+\newblock {\em RNA}, 12(10):1853--1867, oct 2006.
 
 \bibitem[TVL{\etalchar{+}}11]{Ticozzi2011}
 N~Ticozzi, C~Vance, A~L Leclerc, P~Keagle, J~D Glass, D~McKenna-Yasek, P~C
@@ -438,11 +1559,68 @@ N~Ticozzi, C~Vance, A~L Leclerc, P~Keagle, J~D Glass, D~McKenna-Yasek, P~C
   genetics : the official publication of the International Society of
   Psychiatric Genetics}, 156B(3):285--90, apr 2011.
 
+\bibitem[UBSB{\etalchar{+}}12]{Uren2012}
+Philip~J. Uren, Emad Bahrami-Samani, Suzanne~C. Burns, Mei Qiao, Fedor~V.
+  Karginov, Emily Hodges, Gregory~J. Hannon, Jeremy~R. Sanford, Luiz~O.F.
+  Penalva, and Andrew~D. Smith.
+\newblock {Site identification in high-throughput RNA-protein interaction
+  data}.
+\newblock {\em Bioinformatics}, 28(23):3013--3020, dec 2012.
+
 \bibitem[UCK{\etalchar{+}}12]{Untergasser2012}
 Andreas Untergasser, Ioana Cutcutache, Triinu Koressaar, Jian Ye, Brant~C
   Faircloth, Maido Remm, and Steven~G Rozen.
 \newblock {Primer3--new capabilities and interfaces.}
 \newblock {\em Nucleic acids research}, 40(15):e115, aug 2012.
+
+\bibitem[UiHI{\etalchar{+}}02]{Uchida2002}
+Naoyuki Uchida, Shin ichi Hoshino, Hiroaki Imataka, Nahum Sonenberg, and
+  Toshiaki Katada.
+\newblock {A novel role of the mammalian GSPT/eRF3 associating with
+  poly(A)-binding protein in cap/poly(A)-dependent translation}.
+\newblock {\em Journal of Biological Chemistry}, 277(52):50286--50292, dec
+  2002.
+
+\bibitem[UJR{\etalchar{+}}03]{Ule2003}
+Jernej Ule, Kirk~B Jensen, Matteo Ruggiu, Aldo Mele, Aljaz Ule, and Robert~B
+  Darnell.
+\newblock {CLIP identifies Nova-regulated RNA networks in the brain.}
+\newblock {\em Science}, 302(5648):1212--1215, 2003.
+
+\bibitem[VGBW{\etalchar{+}}17]{VanNostrand2017}
+Eric~L. {Van Nostrand}, Chelsea Gelboin-Burkhart, Ruth Wang, Gabriel~A. Pratt,
+  Steven~M. Blue, and Gene~W. Yeo.
+\newblock {CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously
+  tagged RNA binding proteins}.
+\newblock {\em Methods}, 118-119:50--59, 2017.
+
+\bibitem[VNGB{\etalchar{+}}17]{VanNostrand2017a}
+Eric~L. {Van Nostrand}, Thai~B. Nguyen, Chelsea Gelboin-Burkhart, Ruth Wang,
+  Steven~M. Blue, Gabriel~A. Pratt, Ashley~L. Louie, and Gene~W. Yeo.
+\newblock {Robust, cost-effective profiling of RNA binding protein targets with
+  single-end enhanced crosslinking and immunoprecipitation (SeCLIP)}.
+\newblock {\em Methods in Molecular Biology}, 1648:177--200, 2017.
+
+\bibitem[VPS{\etalchar{+}}91]{Verkerk1991}
+Annemiske~J Verkerk, Maura Pieretti, James~S. Sutcliffe, Ying~Hui Fu,
+  Derek~P.A. Kuhl, Antonio Pizzuti, Orly Reiner, Stephen Richards, Maureen~F.
+  Victoria, Fuping Zhang, Bert~E. Eussen, Gert Jan~B. van Ommen, Lau~A.J.
+  Blonden, Gregory~J. Riggins, Jane~L. Chastain, Catherine~B. Kunst, Hans
+  Galjaard, C.~{Thomas Caskey}, David~L. Nelson, Ben~A. Oostra, and Stephen~T.
+  Warran.
+\newblock {Identification of a gene (FMR-1) containing a CGG repeat coincident
+  with a breakpoint cluster region exhibiting length variation in fragile X
+  syndrome}.
+\newblock {\em Cell}, 65(5):905--914, may 1991.
+
+\bibitem[VPS{\etalchar{+}}16]{VanNostrand2016}
+Eric~L {Van Nostrand}, Gabriel~A Pratt, Alexander~A Shishkin, Chelsea
+  Gelboin-Burkhart, Mark~Y Fang, Balaji Sundararaman, Steven~M Blue, Thai~B
+  Nguyen, Christine Surka, Keri Elkins, Rebecca Stanton, Frank Rigo, Mitchell
+  Guttman, and Gene~W Yeo.
+\newblock {Robust transcriptome-wide discovery of RNA-binding protein binding
+  sites with enhanced CLIP (eCLIP)}.
+\newblock {\em Nature Methods}, 13(6):508--514, jun 2016.
 
 \bibitem[VRH{\etalchar{+}}09]{Vance2009}
 Caroline Vance, Boris Rogelj, Tibor Hortob{\'{a}}gyi, Kurt~J {De Vos},
@@ -463,6 +1641,64 @@ Caroline Vance, Emma~L Scotter, Agnes~L Nishimura, Claire Troakes, Jacqueline~C
   wild-type FUS within cytoplasmic stress granules.}
 \newblock {\em Human molecular genetics}, 22(13):2676--88, jul 2013.
 
+\bibitem[VW11]{VanHoof2011}
+Ambro {Van Hoof} and Eric~J. Wagner.
+\newblock {A brief survey of mRNA surveillance}.
+\newblock {\em Trends in Biochemical Sciences}, 36(11):585--592, 2011.
+
+\bibitem[WCK{\etalchar{+}}14]{Wang2014a}
+Tao Wang, Beibei Chen, MinSoo Kim, Yang Xie, and Guanghua Xiao.
+\newblock {A model-based approach to identify binding sites in CLIP-seq data}.
+\newblock {\em PLoS ONE}, 9(4), 2014.
+
+\bibitem[WGB{\etalchar{+}}14]{Wang2014b}
+Charles Wang, Binsheng Gong, Pierre~R Bushel, Jean Thierry-Mieg, Danielle
+  Thierry-Mieg, Joshua Xu, Hong Fang, Huixiao Hong, Jie Shen, Zhenqiang Su, Joe
+  Meehan, Xiaojin Li, Lu~Yang, Haiqing Li, Pawe{\l}~P {\L}abaj, David~P Kreil,
+  Dalila Megherbi, Stan Gaj, Florian Caiment, Joost van Delft, Jos Kleinjans,
+  Andreas Scherer, Viswanath Devanarayan, Jian Wang, Yong Yang, Hui-Rong Qian,
+  Lee~J Lancashire, Marina Bessarabova, Yuri Nikolsky, Cesare Furlanello, Marco
+  Chierici, Davide Albanese, Giuseppe Jurman, Samantha Riccadonna, Michele
+  Filosi, Roberto Visintainer, Ke~K Zhang, Jianying Li, Jui-Hua Hsieh, Daniel~L
+  Svoboda, James~C Fuscoe, Youping Deng, Leming Shi, Richard~S Paules, Scott~S
+  Auerbach, and Weida Tong.
+\newblock {The concordance between RNA-seq and microarray data depends on
+  chemical treatment and transcript abundance}.
+\newblock {\em Nature Biotechnology}, 32(9):926--932, aug 2014.
+
+\bibitem[WHK{\etalchar{+}}12]{Wilbert2012}
+Melissa~L Wilbert, Stephanie~C Huelga, Katannya Kapeli, Thomas~J Stark,
+  Tiffany~Y Liang, Stella~X Chen, Bernice~Y Yan, Jason~L Nathanson, Kasey~R
+  Hutt, Michael~T Lovci, Hilal Kazan, Anthony~Q Vu, Katlin~B Massirer, Quaid
+  Morris, Shawn Hoon, and Gene~W Yeo.
+\newblock {LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing
+  factor abundance.}
+\newblock {\em Molecular cell}, 48(2):195--206, oct 2012.
+
+\bibitem[WK12]{Ward2012}
+Lucas~D. Ward and Manolis Kellis.
+\newblock {Interpreting noncoding genetic variation in complex traits and human
+  disease}.
+\newblock {\em Nature Biotechnology}, 30(11):1095--1106, nov 2012.
+
+\bibitem[WLW{\etalchar{+}}11]{Wang2011}
+Lili Wang, Michael~S. Lawrence, Youzhong Wan, Petar Stojanov, Carrie Sougnez,
+  Kristen Stevenson, Lillian Werner, Andrey Sivachenko, David~S. DeLuca,
+  Li~Zhang, Wandi Zhang, Alexander~R. Vartanov, Stacey~M. Fernandes, Natalie~R.
+  Goldstein, Eric~G. Folco, Kristian Cibulskis, Bethany Tesar, Quinlan~L.
+  Sievers, Erica Shefler, Stacey Gabriel, Nir Hacohen, Robin Reed, Matthew
+  Meyerson, Todd~R. Golub, Eric~S. Lander, Donna Neuberg, Jennifer~R. Brown,
+  Gad Getz, and Catherine~J. Wu.
+\newblock {{\textless}i{\textgreater}SF3B1{\textless}/i{\textgreater} and Other
+  Novel Cancer Genes in Chronic Lymphocytic Leukemia}.
+\newblock {\em New England Journal of Medicine}, 365(26):2497--2506, dec 2011.
+
+\bibitem[WRV80]{WAGENMAKERS1980}
+Anton~J.M. Wagenmakers, Rita~J. Reinders, and Walther~J. {Van Venrooij}.
+\newblock {Cross‐linking of mRNA to Proteins by Irradiation of Intact Cells
+  with Ultraviolet Light}.
+\newblock {\em European Journal of Biochemistry}, 112(2):323--330, nov 1980.
+
 \bibitem[WSL{\etalchar{+}}08]{Wang2008}
 Eric~T Wang, Rickard Sandberg, Shujun Luo, Irina Khrebtukova, Lu~Zhang,
   Christine Mayr, Stephen~F Kingsmore, Gary~P Schroth, and Christopher~B Burge.
@@ -475,12 +1711,36 @@ Xiaowei Wang, Athanasia Spandidos, Huajun Wang, and Brian Seed.
   analysis, 2012 update.}
 \newblock {\em Nucleic acids research}, 40(Database issue):D1144--9, jan 2012.
 
+\bibitem[WU11]{Witten2011}
+Joshua~T. Witten and Jernej Ule.
+\newblock {Understanding splicing regulation through RNA splicing maps}, mar
+  2011.
+
+\bibitem[WVMY{\etalchar{+}}14]{Weyn-Vanhentenryck2014}
+Sebastien~M. Weyn-Vanhentenryck, Aldo Mele, Qinghong Yan, Shuying Sun, Natalie
+  Farny, Zuo Zhang, Chenghai Xue, Margaret Herre, Pamela~A. Silver, Michael~Q.
+  Zhang, Adrian~R. Krainer, Robert~B. Darnell, and Chaolin Zhang.
+\newblock {HITS-CLIP and Integrative Modeling Define the Rbfox
+  Splicing-Regulatory Network Linked to Brain Development and Autism}.
+\newblock {\em Cell Reports}, 6(6):1139--1152, 2014.
+
+\bibitem[WXC{\etalchar{+}}15]{Wang2015}
+Tao Wang, Guanghua Xiao, Yongjun Chu, Michael~Q. Zhang, David~R. Corey, and
+  Yang Xie.
+\newblock {Design and bioinformatics analysis of genome-wide CLIP experiments}.
+\newblock {\em Nucleic Acids Research}, 43(11):5263--5274, jun 2015.
+
+\bibitem[WXX14]{Wang2014}
+Tao Wang, Yang Xie, and Guanghua Xiao.
+\newblock {dCLIP: a computational approach for comparative CLIP-seq analyses}.
+\newblock {\em Genome Biology}, 15(1):R11, 2014.
+
 \bibitem[YCL{\etalchar{+}}09]{Yeo2009}
-Gene~W Yeo, Nicole~G Coufal, Tiffany~Y Liang, Grace~E Peng, Xiang-Dong Fu, and
-  Fred~H Gage.
+Gene~W. Yeo, Nicole~G. Coufal, Tiffany~Y. Liang, Grace~E. Peng, Xiang~Dong Fu,
+  and Fred~H. Gage.
 \newblock {An RNA code for the FOX2 splicing regulator revealed by mapping
-  RNA-protein interactions in stem cells.}
-\newblock {\em Nature structural {\&} molecular biology}, 16(2):130--7, feb
+  RNA-protein interactions in stem cells}.
+\newblock {\em Nature Structural and Molecular Biology}, 16(2):130--137, feb
   2009.
 
 \bibitem[YCY{\etalchar{+}}12]{Yamazaki2012}
@@ -493,11 +1753,52 @@ Tomohiro Yamazaki, Shi Chen, Yong Yu, Biao Yan, Tyler~C Haertlein, Monica~A
   SMA.}
 \newblock {\em Cell reports}, 2(4):799--806, oct 2012.
 
+\bibitem[YLS{\etalchar{+}}11]{Yang2011}
+Jian~Hua Yang, Jun~Hao Li, Peng Shao, Hui Zhou, Yue~Qin Chen, and Liang~Hu Qu.
+\newblock {StarBase: A database for exploring microRNA-mRNA interaction maps
+  from Argonaute CLIP-Seq and Degradome-Seq data}.
+\newblock {\em Nucleic Acids Research}, 39(SUPPL. 1):D202--D209, jan 2011.
+
 \bibitem[YZK{\etalchar{+}}15]{Yang2015}
 Liuqing Yang, Jiayu Zhang, Marisa Kamelgarn, Chunyan Niu, Jozsef Gal, Weimin
   Gong, and Haining Zhu.
 \newblock {Subcellular localization and RNAs determine FUS architecture in
   different cellular compartments.}
 \newblock {\em Human molecular genetics}, 24(18):5174--83, sep 2015.
+
+\bibitem[ZD11]{Zhang2011}
+Chaolin Zhang and Robert~B Darnell.
+\newblock {Mapping in vivo protein-RNA interactions at single-nucleotide
+  resolution from HITS-CLIP data.}
+\newblock {\em Nature biotechnology}, 29(7):607--614, 2011.
+
+\bibitem[ZFS{\etalchar{+}}16]{Zarnegar2016}
+Brian~J Zarnegar, Ryan~A Flynn, Ying Shen, Brian~T Do, Howard~Y Chang, and
+  Paul~A Khavari.
+\newblock {IrCLIP platform for efficient characterization of protein-RNA
+  interactions}.
+\newblock {\em Nature Methods}, 13(6):489--492, apr 2016.
+
+\bibitem[ZGZM13]{Zund2013}
+David Z{\"{u}}nd, Andreas~R. Gruber, Mihaela Zavolan, and Oliver
+  M{\"{u}}hlemann.
+\newblock {Translation-dependent displacement of UPF1 from coding sequences
+  causes its enrichment in 3′ UTRs}.
+\newblock {\em Nature Structural and Molecular Biology}, 20(8):936--943, jul
+  2013.
+
+\bibitem[ZKT{\etalchar{+}}13]{Zarnack2013}
+Kathi Zarnack, Julian K{\"{o}}nig, Mojca Tajnik, I{\~{n}}igo Martincorena,
+  Sebastian Eustermann, Isabelle St{\'{e}}vant, Alejandro Reyes, Simon Anders,
+  Nicholas~M. Luscombe, and Jernej Ule.
+\newblock {Direct competition between hnRNP C and U2AF65 protects the
+  transcriptome from the exonization of Alu elements}.
+\newblock {\em Cell}, 152(3):453--466, jan 2013.
+
+\bibitem[ZRS{\etalchar{+}}08]{Zhang2008}
+Zhengdong~D Zhang, Joel Rozowsky, Michael Snyder, Joseph Chang, and Mark
+  Gerstein.
+\newblock {Modeling ChIP sequencing in silico with applications.}
+\newblock {\em PLoS computational biology}, 4(8):e1000158, jan 2008.
 
 \end{thebibliography}

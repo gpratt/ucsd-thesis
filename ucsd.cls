@@ -1563,6 +1563,8 @@ on microfilm and electronically: }}\\
  \def\subsectionmark##1{}}
 
 % Definition of 'plain' page style.
+\addtolength{\oddsidemargin}{-.55in} %makes left and right margin 1"
+\addtolength{\textwidth}{.55in} %makes left and right margin 1"
 %
 \def\ps@plain{\let\@mkboth\markboth%
 \def\@oddfoot{\hbox{}\hfil\rmfamily\thepage\hfil\hbox{}}% Pgno bot center
@@ -1574,10 +1576,11 @@ on microfilm and electronically: }}\\
 
 % Definition of 'thesis' page style.
 %
-\def\ps@thesis{\let\@mkboth\markboth
-\def\@oddfoot{}\def\@evenfoot{}				% no feet
-\def\@oddhead{\hbox{}\hfil\rmfamily\thepage}		% heading (right)
-\def\@evenhead{\rmfamily\thepage\hfil\hbox{}}}		% heading (left)
+\def\ps@thesis{\let\@mkboth\markboth%
+\def\@oddfoot{\hbox{}\hfil\rmfamily\thepage\hfil\hbox{}}% Pgno bot center
+\def\@evenfoot{\hbox{}\hfil\rmfamily\thepage\hfil\hbox{}}%
+\def\@oddhead{}% heading (right)
+\def\@evenhead{}}% heading (left)
 %\pagenumbering{arabic}}					% (WBB)
 
 % Definition of 'preliminary' page style.
